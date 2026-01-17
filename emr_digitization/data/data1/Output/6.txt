@@ -1,0 +1,10 @@
+Remdesivir Prescription – Primus Hospital
+
+Patient: Hanmohan, Male, 55 yrs
+UHID: 387301 / 85143
+Diagnosis: COVID-19 Pneumonia
+Treatment:
+- Remdesivir 200 mg IV stat
+- Then 100 mg IV OD × 4 days
+Total Vials: 6
+Doctor: Dr. Abhishek, RMO COVID Ward

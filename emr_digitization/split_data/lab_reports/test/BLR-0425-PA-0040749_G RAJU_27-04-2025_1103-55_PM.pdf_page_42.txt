@@ -1,0 +1,55 @@
+: ee
+. IRAE EEe Tal |
+(®) a KIMS-ICON
+NABH £
+t H
+Pee OSPITAL
+false:
+DEPARTMENT OF CLINICAL BIOCHEMISTRY
+Patient i
+Bill Date —: 23-Apr-25 04:03 PM a: : Dr.CHENNA VIJAY MD, DM (NEUROLOGY)
+Sample Coll, ; 23-Apr-25 4:03PM Admn / UMR No [x Umincoccs
+Sample Rec. :01-Jan--13 12:00 AM Service No 1$2050579
+Report Date * 23-Apr-25 5:06 PM Ward/Room/Bed : OPERATION THEATRE/OT/OT-1
+Parameter Specimen Results Biological Reference
+ctHb 10.9 Calculated
+Hetc 35 Calculated
+Oxyaen Status
+ctO2e 25.7 Calculated
+Calculated Values
+cBase(Ecf)c 24.3 Calculated
+cHCO3(P,st)c 23.6 Calculated
+cCat+(7.4)c 1.70 Calculated
+ARTERIAL BLOOD GASES (ABG)
+Blood Gas Values
+pH 7.29 } 7.350 - 7.450 Potentiometry
+pco2 53 t 32.0 - 45.0 mmHg Potentiometry
+po2 418 t 80.0 - 100.0 mmHg Amperometry
+Electrolyte Values
+cNa+ 134 134.0 - 146.0 mmol/L Direct ISE
+cK+ 4.3 3.5-5.5 mmol/L Direct ISE
+cCa+4 2.08 q $15 - 1.32 mEq/L Direct ISE
+Metabolite Values
+clac 2.2 t 0.5 « 1.6 mmol/L
+eGlu 224
+Oximetry Values
+sO2 100 Calculated
+FO2Hbe -1.6 Calculated
+FHHbe “11 Calculated
+ctHb Bh a Calculated
+Hetc 36 Calculated
+Oxygen Status
+ctO2e 27.1 Calculated
+Printed By : 41060009 Printed On : 26-Apr-2025 09:23:53 AM system i
+a ee
+ox NY edico Ny
+3% OY
+of NE NON
+His ym > \S\
+L={KIMS-ICON|O}
+Wo\ HOSPITAL /3
+wa. \\b \Wisakhapatnany %
+Iconkrishi Institute of Medital‘Science: ite Limited
+# 32-11-02, Sheela Nagar, BHPV Rastivi Kl nam - 530 012
+Andhra Pradesh, India, Phone No: 0891- imshospitals.com
+CIN: USSHOAP2Z018PTCL1O8133

@@ -1,0 +1,55 @@
+TEL:
+Diagnostic Report
+service Il a — es
+Lab No: 72302128 IP (GENERAL Study Date- J 10:17a"
+WA/MBM -040)
+Referred By: Dr. NEPHROLOGY TEAM
+CULTURE, AEROBIC, PUS Result Finalized Released Date: QJ 5:20-m
+CULTURE METHOD <OBX.5.1><OBX.5. null
+1.1>Aerobic
+Culture, ID
+</OBX.5.1.1><OBX
+-5.1.2> AST
+performed by
+VITEK 2
+Compact .</OBX.5.
+1.2></OBX.5.1>
+REMARKS: Moderate growth. null
+SPECIMEN TYPE : Pus null
+Order Date - QR) 7: 36rm Bill No. - IP7/CR25/84230
+Lab No: 72301016 IP (GENERAL Study Date- 7: 442"
+WA/MBM -040)
+Referred By: Dr. NEPHROLOGY TEAM
+RENAL PROFILE 1 Result Finalized Released Date: J) °:24a»
+ALBUMIN 3.8 g/dl 3.97-4.94 g/dL
+BICARBONATE 17.0 mmol/L 22-29 mmol/1
+CALCIUM 7.4 mg/dl Cord blood : 8.2-11.2
+mg/dLNewborn,Premature : 6.2-11.0
+mg/dLChildren (0-10 days) : 7.6-10.4 mg/dL
+Children (10 days-2 years): 9.0-11.0
+mg/dLChildren (2-12 years) : 8.8-10.8
+mg/dLChildren (12-18 years) : 8.4-10.2
+mg/dL Adults (18-60 years) : 8.6-10.0
+mg/dLAdults (60-90 years) : 8.8-10.2
+mg/dLAdults (> 90 years) : 8.2-9.6 mg/dL
+CHLORIDE 98.1 mmol/L 98-107 mmol/1
+CREATININE 4.26 mg/dl 0.6-1.2 mg/dl
+PHOSPHORUS 4.65 mg/dl 2.6-4.5 mg/dl
+POTASSIUM 6.78 mmol/L 3-5-5.5 mmol/1
+SODIUM 131.7 mmol/L 135-148 mmol/L
+ALBUMIN 3.8 g/dl 3.97-4.94 g/dL
+BICARBONATE 17.0 mmol/L 22-29 mmol/1
+CALCIUM 7.4 mg/dl Cord blood : 8.2-11.2
+mg/dLNewborn,Premature : 6.2-11.0
+mg/dLChildren (0-10 days) : 7.6-10.4 mg/dL
+Children (10 days-2 years): 9.0-11.0
+mg/dLChildren (2-12 years) : 8.8-10.8
+mg/dLChildren (12-18 years) : 8.4-10.2
+mg/dL Adults (18-60 years) : 8.6-10.0
+mg/dLAdults (60-90 years) : 8.8-10.2
+mg/dLAdults (> 90 years) : 8.2-9.6 mg/dL
+CHLORIDE 98.1 mmol/L 98-107 mmol/1
+CREATININE 4.26 mg/dl 0.6-1.2 mg/dl
+PHOSPHORUS 4.65 mg/dl 2.6-4.5 mg/dl
+POTASSIUM 6.78 mmol/L 3-5-5.5 mmol/1
+a ae

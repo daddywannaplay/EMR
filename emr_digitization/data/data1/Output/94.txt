@@ -1,0 +1,12 @@
+CHUS Centre hospitalier universitaire de Sherbrooke
+Patient: John Hubbard
+Date: Dec 1st, 2017
+
+Rx:
+Acetaminophen 650 mg q4h PRN
+
+To treat coronary artery disease:
+Aspirin 81 mg PO daily
+Clopidogrel 75 mg PO daily
+
+Dr Jones

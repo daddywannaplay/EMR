@@ -1,0 +1,83 @@
+project:
+  name: "EMR Digitization Pipeline"
+  version: "1.0.0"
+  env: "development"
+
+ocr:
+  model_path: "models/ocr_model"
+  confidence_threshold: 0.7
+  max_image_size: [2048, 2048]
+  dpi: 300
+
+post_ocr:
+  spell_correction: true
+  medical_dictionary: "config/medical_dictionary.json"
+  confidence_threshold: 0.75
+
+nlp:
+  model_name: "allenai/scibert_scivocab_uncased"
+  ner_model: "DistilBERT-clinical-NER"
+  entity_linking_service: "snomed_ct_service"
+  confidence_threshold: 0.7
+  max_text_length: 512
+
+fhir:
+  version: "R4"
+  validator_url: "http://fhir-validator:8080"
+  ontology_services:
+    snomed_ct: "http://snomed-service:5000"
+    icd10: "http://icd10-service:5000"
+    loinc: "http://loinc-service:5000"
+
+validation:
+  human_in_loop: true
+  auto_learning: true
+  validation_batch_size: 50
+  confidence_threshold_trigger: 0.6
+
+security:
+  encryption_algorithm: "AES-256"
+  enable_audit_logging: true
+  audit_log_retention_days: 2555
+  role_based_access_control: true
+  hipaa_compliance: true
+
+database:
+  engine: "postgresql"
+  host: "localhost"
+  port: 5432
+  database: "emr_db"
+  user: "emr_user"
+  password: "${DB_PASSWORD}"
+  ssl_enabled: true
+
+api:
+  host: "0.0.0.0"
+  port: 8000
+  debug: true
+  cors_enabled: true
+  rate_limit: 100
+
+logging:
+  level: "INFO"
+  format: "json"
+  file: "logs/emr_digitization.log"
+  max_file_size: 10485760  # 10MB
+  backup_count: 10
+
+performance:
+  batch_processing: true
+  batch_size: 32
+  num_workers: 4
+  gpu_enabled: true
+  device: "cuda"
+
+dataset:
+  total_documents: 555
+  prescriptions: 129
+  lab_reports: 426
+  train_split: 0.8  # 444 documents
+  validation_split: 0.1  # 55 documents
+  test_split: 0.1  # 55 documents
+  expected_training_time_minutes: 25
+  expected_accuracy_percent: 92

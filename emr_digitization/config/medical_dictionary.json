@@ -1,0 +1,44 @@
+{
+  "common_medical_terms": {
+    "bp": "blood pressure",
+    "hr": "heart rate",
+    "hct": "hematocrit",
+    "wbc": "white blood cell",
+    "rbc": "red blood cell",
+    "plt": "platelet",
+    "mcv": "mean corpuscular volume",
+    "tbsp": "tablespoon",
+    "tsp": "teaspoon",
+    "q.d.": "daily",
+    "b.i.d.": "twice daily",
+    "t.i.d.": "three times daily",
+    "q.i.d.": "four times daily",
+    "stat": "immediately"
+  },
+  "common_abbreviations": {
+    "pt": "patient",
+    "hx": "history",
+    "sx": "symptom",
+    "dx": "diagnosis",
+    "tx": "treatment",
+    "rx": "prescription",
+    "ppm": "parts per million",
+    "ung": "ointment",
+    "inj": "injection",
+    "iv": "intravenous"
+  },
+  "medication_corrections": {
+    "amoxicillin": ["amoxycillin", "amoxicilin"],
+    "ibuprofen": ["ibuprofen", "ibuprefen"],
+    "acetaminophen": ["acetaminophene", "tylenol"],
+    "metformin": ["metformine", "glucophage"],
+    "lisinopril": ["lsinopril", "lisinipril"]
+  },
+  "common_misspellings": {
+    "diabeties": "diabetes",
+    "hypertention": "hypertension",
+    "pnemonia": "pneumonia",
+    "sepsis": "sepsis",
+    "thrombosis": "thrombosis"
+  }
+}

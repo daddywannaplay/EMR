@@ -1,0 +1,25 @@
+Hospital: Netaji Subhas Chandra Bose Cancer Hospital
+Location: Kolkata, India
+Appointment Date: 16/04/2022
+
+Patient: Shila Dasgupta
+Sex: Female
+Age: 57
+MR No: NCRI/22/1795
+
+Clinical Findings:
+- Right breast lump (2 cm)
+
+Diagnosis:
+- Right breast lesion (T3N1)
+
+Investigations Suggested:
+- USG: Right breast BIRADS 4 lesion
+- FNAC: Invasive duct carcinoma
+
+Advice:
+1. Core biopsy (Right breast)
+2. PET CT scan
+3. Review
+
+Doctor: Dr. Soumen Das

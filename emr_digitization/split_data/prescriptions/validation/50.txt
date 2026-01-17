@@ -1,0 +1,17 @@
+Hospital: Manila Doctors Hospital
+Location: Ermita, Manila
+
+Medical Certificate
+
+Patient: [Redacted]
+Age: 26 years
+
+Clinical Note:
+- Patient was admitted and attended at Tondo Medical Center
+- Seen by cardiologist on 10/06/2020
+
+Remarks:
+- Needs rest for 2 days while awaiting lab results
+- Fit to work from Oct 7, 2020
+
+Doctor: Rojeson, M.D.

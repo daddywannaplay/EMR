@@ -1,0 +1,47 @@
+INSTITUTE OF LIVER & BILIARY SCIENCES
+(An Autonomous Society under Government of NCT of Delhi)
+lw, D-1, Vasant Kunj, New Delhi, India
+i | bs 46300010,
+7 ee
+[id :  IPID.0112385 Patient's FY
+Referred By : Dr Satender Pal Singh Requisition 4312180
+Ward : HDU Phase-II Bed 2320-02
+Date of Collection : 21-Apr-2025 00:26 Reporting Date 21-Apr-2025 06:23
+Payer |
+LABORATORY
+TEST Result Unit Reference Range
+eGFR 125 ml/min/1.73
+m2
+Remarks: PLEASE CORRELATE CLINICALLY.
+Liver Function Test_/ Profile** * [SERUM
+Method : DPD
+Sample Type : Serum
+Bilirubin Total{ DPD} 1.18 mg/dl 0.1 - 1.2
+Bilirubin Direct{DPD} 0.3 *H 0-0.2
+Bilirubin Indirect (Calculated) 0.88 *H 0.2-0.8
+AST/SGOT {IFCC-Without P-5P} 33 IU/L 5-40
+ALT /SGPT (IFCC-Without P-5P) 23 < 30
+Alkaline Phosphatase{IFCC Amp 79 50 - 116
+Buffer}
+GGT {IFCC} 12 <55
+Total Protein{Biuret} 5.29 *L g/dL 6.4 - 8.3
+Albumin {BCP Bromocresol Green} 2.38 *L 3.5-5.2
+Globulin (Calculated) 2.91 gm/dl
+A\G Ratio (Calculated) 0.82 *L 1.5-2.5
+Remarks: PLEASE CORRELATE CLINICALLY.
+Magnesium-serum** * [SERUM
+Sample Type : Serum
+Magnesium (Xylldyl 3.1 *H mg/dl 1.7-2.4
+Blue-Colourimetric-Tris-B
+Remarks: PLEASE CORRELATE CLINICALLY.
+COAGULATION
+PT _/ PT-INR ** * [PLASMA]
+Sample Type : Citrated Plasma
+Method : Photo Optical Clot Detection
+Prothrombin Time(PT)
+Test 16.0 seconds
+Mean Normal Prothrombin 12.0
+Time(MNPT)
+INR 1.36
+BIO - CHEMISTRY
+* Use of NABL symbol is subject to scope of accreditation

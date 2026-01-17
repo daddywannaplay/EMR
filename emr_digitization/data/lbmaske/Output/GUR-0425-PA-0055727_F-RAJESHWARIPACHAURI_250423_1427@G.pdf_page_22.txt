@@ -1,0 +1,47 @@
+texs)) |
+|
+MC-2485
+wW-0008
+LAB REPORT |
+JHID : 1591535 No.: IPD/25G/2335 Date: 23/Apr/2025 Bed No : Casualty 02
+Zz a | _ eh UU }
+eS ee pS a |
+MC PS BEDI Sample Collected : 23/Apr/2025 02:42:10AM |
+Collected At ; EMERGENCY Reported : 23/Apr/2025 08:41:29AM |
+|
+Investigation Result Unit Biological Ref Interval
+PHOSPHORUS (P04) 24.35 mg/dl 2.5 - 4.5 7
+Molybdate UV
+TOTAL PROTEINS £7.02 g/dl 6.4 - 8.3 |
+Colorimetric assay with Biuret regent
+ALBUMIN 23.65 g/dl 3.5) = Fag
+GLOBULIN. £9.37 gm/dl. 2.5 - 3.5
+Calculated
+GFR, Estimated (calculated) 212.09 mL/min/1.7
+This formula is derived CKD-EPI creatinine equation 2021 and is valid only for Asian '
+population & adults over 18 years).
+Interpretation:
+AGE IN YEARS GFR IN mL/min/1.73m2
+20. =.29 116
+30 = 39 107
+40 - 49 99 |
+50 - 59 93 ,
+60 - 69 85
+>-70 75
+COMPLETE BLOOD COUNT
+(EDTA WHOLE BLOOD)
+HAEMOGLOBIN 710.4 gm% 12.0 - 15.0
+SLS-Non Cyanide hemoglobin method
+PACKED CELL VOLUME (PCV) 731.8 % 35 - 45
+RBC Pulse height detection method
+R.B.C. Count 72.95 x 10*12/1 3.8 - 4.8
+Impedence
+MCV (Normal) 2107.8 fl 83 - 101
+Calculated
+MCH 235.3 pg 27 -33
+Calculated
+MCHC SO2e gms 30 - 35
+Calculated
+RDW-CV 714.5 % 11.6 -14.0
+Electrical Impedence
+TOTAL LEUCOCYTE COUNT 25,58 x10*9/1 4.0 - 10.0

@@ -1,0 +1,13 @@
+Doctor: Dr. Jayaprakash Hebbar
+Clinic: Bandra, Mumbai
+Date: 17/03/2019
+
+Patient: Mr. Kamal
+
+Medications:
+1. Tab Lavol-ER – once daily after food × 5 days
+2. Tab Danzan – once daily before food × 5 days
+
+Advice:
+- Fluids
+- Electral / Glucon

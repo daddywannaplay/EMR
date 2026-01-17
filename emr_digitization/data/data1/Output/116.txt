@@ -1,0 +1,9 @@
+KAMINENI HOSPITALS
+
+Patient: Mr. Uday Kumar
+Age/Sex: 46/M
+Department: ENT
+Case: Mucormycosis of paranasal sinus with meningitis
+
+Requirement:
+IV Liposomal Amphotericin B injections for 2 weeks

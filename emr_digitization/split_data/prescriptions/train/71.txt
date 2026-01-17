@@ -1,0 +1,18 @@
+Radio QSL Card
+
+Radio: Alinco DX-77T
+QSO Date: May 24
+Frequency: 14.250 MHz
+Mode: SSB
+RST: 57
+Output: 100 Watts
+Antenna: G5RV
+UP: 26 ft
+
+Remarks:
+- Good job on the pileup
+
+To:
+W5EA
+117 Eagle Lake Drive
+West Monroe, LA 71291

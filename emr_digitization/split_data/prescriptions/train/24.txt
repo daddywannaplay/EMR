@@ -1,0 +1,22 @@
+Hospital / Clinic: Not mentioned
+Doctor: Dr. Raja Nag
+Specialization: Cardiology
+
+Patient: Not mentioned
+
+Medical History:
+- Recent ASMI
+- Hypertension
+
+Investigations:
+- ECG: ASMI
+- Echo: LVEF 45%
+
+Vitals:
+- BP: 127/77 mmHg
+- Pulse: 74/min
+
+Medications:
+1. Tab Deplatt A 150 mg – OD
+2. Tab Atorva 80 mg – OD
+3. Tab Nitroglycerin 2.6 mg – TDS

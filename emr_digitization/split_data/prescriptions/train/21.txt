@@ -1,0 +1,19 @@
+Hospital / Clinic: Apollo Hospitals, Jubilee Hills, Hyderabad
+Doctor: Dr. Naveen Polavarapu
+Date: Not mentioned
+
+Patient: Not mentioned
+Sex: Not mentioned
+Age: Not mentioned
+
+Diagnosis:
+- Severe sepsis
+- MODS
+- Likely liver abscess
+- Aspiration pneumonia
+
+Clinical Notes:
+- Patient requires hospital stay for 8–10 days for complete recovery
+
+Advice:
+- Inpatient care recommended

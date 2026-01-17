@@ -1,0 +1,23 @@
+SAI DIAGNOSTICS – LAB REPORT
+
+Complete Blood Picture (CBP)
+
+Haemoglobin: 16.0 g/dL
+PCV: 48 %
+RBC Count: 5.3 cells/cumm
+Platelet Count: 2.5 lakhs/cumm
+WBC Count: 9000 cells/cumm
+
+Differential Count:
+Polymorphs: 57 %
+Lymphocytes: 35 %
+Eosinophils: 3 %
+Monocytes: 5 %
+Basophils: 0 %
+
+Peripheral Smear:
+RBC: Normocytic Normochromic
+WBC: Within Normal Limits
+Platelets: Adequate
+
+End of Report

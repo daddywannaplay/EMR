@@ -1,0 +1,15 @@
+Doctor: Dr. Alfred Sauls
+Address: 151212 S. High Rd., Chicago, IL 23875
+Phone: 954-555-1300
+
+Patient: Alan Johnson
+Address: 92 Ibis Lane
+
+Medication:
+- Erythromycin ethylsuccinate 400 mg/5 ml
+Dispensed Quantity: 100 ml
+
+Instructions:
+- 1 tsp q.i.d. until all medication is taken
+
+Dispense as written

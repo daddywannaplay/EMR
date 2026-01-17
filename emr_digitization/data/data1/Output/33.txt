@@ -1,0 +1,15 @@
+Hospital: P. D. Hinduja Hospital & Medical Research Centre
+Location: Mahim, Mumbai
+
+Patient: Rahul
+Age/Sex: 29 / Male
+
+Medications:
+1. Tab Azee 500 mg – OD × 7 days
+2. Syp TusQ – 1 tsp
+3. Tab Pan 40 mg – OD × 7 days
+4. Tab Dolo 650 – SOS for fever/pain
+
+Advice:
+- Oral fluids
+- Follow-up in medical OPD if required

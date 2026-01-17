@@ -1,0 +1,50 @@
+Mr. KAUSHAL H VACHHANI Reference: Dr. Mayur Rai Order No:
+— WN EE MATRIX WEST Registered On:
+== WINGS 406, KAMBALA CROSS ROAD, [ff Sample Collected At: a5 ‘AB PM
+== AAKE, AJ HOSPITAL & RESEARCH Collected On:
+= =s MANGALORE, ALAKE,DAKSHINA CENTRE MANGALORE. [CO 31:32 PM
+=== KANNADA 575004 ae
+> . eported On:
+tol io SO 3-13:21 Pm
+PIN No: 575001
+UHID : MR651016 \ 5C
+Test Name Result Unit Biological Reference
+#Blood - Prothrombin Time - Plasma
+Prothrombin Time (PT)
+Prothrombin time, plasma 12.0 Seconds 11-16
+(Optical clot detection(Turbidimetry))
+Control (MNPT) 12:2) Seconds
+(Optical clot detection(Turbidimetry))
+Ratio 0.98 0-100
+(Optical clot detection(Turbidimetry))
+@rrinr) Value 0.98 0.8-1.2
+(Optical clot detection(Turbidimetry))
+Interpretation:
+Interpretation :
+The prothrombin time (PT) and international normalized ratio (INR) are measures of the extrinsic pathway of coagulation.
+The INR is used only for patients on stable oral anticoagulant therapy. It makes no Significant contribution to the diagnosis
+or treatment of patients whose PT is prolonged for other reasons.
+Increased PT times may be due to:
+Factor deficiencies( X , Il, V , I ), Coumadin (warfarin) therapy, Liver Diseases (Bile duct obstruction, Cirrhosis .
+Hepatitis), Haemorhagic Disease of the newborn, DIC, Malabsorption, Fibrinolysis, Vitamin K deficiency.
+Interference in PT/INR
+Acohol,antibiotics, aspirin, cimetidine, thrombin Inhibitors(Increase PT) Barbiturates, oral contraceptives,
+hormone-replacement therapy (HRT), and vitamin K (Decrease PT).
+Correlate clinically.
+#Blood - Routine (CBC)
+Blood - Haemoglobin 15.4 g/dl 13.5-18
+(Cyanide-free SLS haemoglobin)
+oo (RBC) Count 4.94 million/cumm  4.5-5.5
+w-lectrical impedance with hydrodynamic focusing)
+PCV (Packed Cell Volume) 43.2 % 40-54
+(Flow cytometry)
+MCV Blood 87.4 fl 78-98
+| (Calculated)
+7
+“*" Highlighted Results to be considered as Critical Report for immediate intervention by Doctors/Nurses.
+Underlined Highlighted values indicate abnormal range / out of range values.
+WS ‘
+ke A.J.| g
+“we-esa7 Hospital ‘2
+& Research —
+Centre w

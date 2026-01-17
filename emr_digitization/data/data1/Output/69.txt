@@ -1,0 +1,11 @@
+Medication Label
+
+Drug Name: Pabrinex
+Dose: 2 pairs
+Route: IV
+Indication: TDS
+Additional Instructions:
+- Administer at 08:00, 14:00, 18:00, 22:00
+
+Start Date: 11/11/12
+Doctor ID: 2316

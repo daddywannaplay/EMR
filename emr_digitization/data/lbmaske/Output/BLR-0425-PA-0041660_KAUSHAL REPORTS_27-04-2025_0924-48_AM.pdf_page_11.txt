@@ -1,0 +1,46 @@
+Mr. KAUSHAL H VACHHANI Reference: Dr. Mayur Rai Order No:
+— ONO SE Rx WEST Registered On:
+— WING: 6, KAMBALA CROSS ROAD, Sample Collected At: — ee 12:51 ‘48 PM
+— ALAKE, AJ HOSPITAL & RESEAR' Collected On:
+— MANGALORE, ALAKE,DAKSHINA CENTRE MANGALORE. HE 01:31:32 pw
+— KANNADA 575004
+= Reported On:
+Tel No : a’ MI 03:13:21 pw
+PIN No: 575001
+UHID : MR651016 \ 5C
+Test Fi || || Biological Reference
+HEMATOLOGY
+H#iba - A.P.T.T- Plasma
+APTT Activated Partial Thromboplastin Time
+aPTT- (Test) 32.8 Seconds 22.7-32.3
+(Optical clot detection(Turbidimetry))
+Interpretation:
+Test done on Fully Automated Coagulometer (Clotting)
+@rierpretation:
+The activated partial thromboplastin time (APTT) test measures the functionality of the intrinsic and common pathways of
+the coagulation cascade.
+Prolonged APTT tests may be due to:
+1. Pre-analytical problems:
+- Insufficient sample
+- Patients with high hematocrit levels
+- Heparin contamination (from IV lines)
+- Clotted blood samples
+2. Inherited or acquired factor deficiencies
+3. Anonspecific inhibitor such as the lupus anticoagulant (LA)
+4. A specific inhibitor. Although these are relatively rare, these are antibodies that attack a particular factor
+5. DIC
+6. Cirrhosis, Malabsorption
+7. This APTT assay is not established to monitor Heparin Therapeutic Range. In case of monitoring patients on Heparin a
+test result of 2-3.5 times of control value may likely be preferred.
+8. Warfarin (Coumadin) anticoagulation therapy. The PTT is not used to monitor warfarin therapy, but it may be affected
+by it
+9. Leukemia
+Oorr-contei (Normal pooled Plasma) 29.3 Seconds
+(Optical clot detection(Turbidimetry))
+|
+““" Highlighted Results to be considered as Critical Report for immediate intervention by Doctors/Nurses.
+Underlined Highlighted values indicate abnormal range / out of range values.
+mc-oes7 Hospital = ‘
+& Research =. ==
+Centre wy
+| on

@@ -1,0 +1,61 @@
+Print Results
+| a : Dr Akshatha Hegde
+No :
+RESULT UNITS REFERENCE
+Collection Date/ Time ‘07:32
+GLUCOSE-Fasting Specimen: Plasma
+Plasma GLUCOSE-Fasting (Hexokinase) 103 # mo/dl [70-100]
+Collection Date/ Time : NNN 7:32
+LIPID PROFILE specimen: Serum
+TOTAL CHOLESTEROL (CHOD/POD) 129 mg/dl [<200]
+Moderate risk:200-239
+High risk:>240
+TRIGLYCERIDES (GPO/POD) 99 mg/dl [<150]
+Borderline high:151-199
+High: 200 - 499
+Very high:>500
+DL - CHOLESTEROL (Enzymatic) 53 mg/al [30-60
+VLDL - Cholesterol (Calculated) 20 mg/dl [10-40
+LDL- CHOLESTEROL (Enzymatic) 75 mg/dl [<100]
+Near/Above optimal-100-129
+Borderline High:130-159
+High Risk:160-189
+T.Chol/HDL.Chol ratio (Calculated) 2.4 <4.0 Optimal
+4,0-5.0 Borderline
+>6 High Risk
+LDL.CHOL/HDL.CHOL Ratio (Calculated) 1.4 <3 Optimal
+3-4 Borderline
+>6 High Risk
+Note:
+Reference ranges based on ATP III Classifications.
+Recommended to do fasting Lipid Profile after a minimum of 8 hours of overnight fasting.
+Collection Date/ Time : AN 15:16
+C- REACTIVE PROTEIN (CRP) Specimen Serum
+Test Description Test Value Units Biological ref
+C-reactive protein (Immunoturbidimetry) 2.46 mg/L [<5.00]
+Technical Note: © Reactive Protein is an acute phase reactant.It is raised in bacterial infections
+infections and useful in assessing disease activity in autoimmune disorders.
+Reference-WWW.cdc.gov/nchs/nhanes. html
+Collection Date/ Time ‘5:16
+Specimen: EDTA Whole blood
+As per American Diabetes Association(ADA) 2010
+HbAlc (Glycosylated Hemoglobin) 7.8 #3 4,0-6.5]
+HbAle in &
+Non diabetic adults : < 5.7 8
+Prediabetes (At Risk) : 5.7% - 6.48
+Diabetic Range : > 6.5 &
+Estimated
+Methodology iguid
+Use :
+1.Monitoring compliance and long-term blood glucose level control in patients with diabetes
+2.Index of diabetic control (direct relationship between poor control and development
+of complications).
+3. Predicting development and progression of diabetic microvascular complications.
+Limitations :
+1. AlC values may be falsely elevated or decreased in those with chronic kidney disease.
+2.False elevations may be due in part to analytical interference from carbamylated hemoglobin
+formed in the presence of elevated concentrations of urea, with some assays.
+3. False decreases in measured AIC may occur with hemodialysis and altered red cell turnover,
+especially in the setting of erythropoietin treatment
+References : Rao.L.V.,Michael snyder.L.(2021).Wallach's Interpretation of Diagnostic Tests.
+llth Edition. Wolterkluwer, NaderRifai,Andrea Rita Horvath,Carl T.wittwer. (2018)Teitz Text book

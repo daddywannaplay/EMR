@@ -1,0 +1,27 @@
+Hospital: KIMS Hospitals
+Consultant: Dr. Mahesh Kumar Revoori (ENT)
+Date: 26/04/2021
+
+Patient: Ismail Shaik
+Age/Sex: 45 / Male
+
+Complaints:
+- Right cheek pain (5 days)
+- Reduced vision in right eye (5 days)
+- Nasal discharge / bleeding
+- Headache
+- History of fever and cough
+
+Medical History:
+- Diabetes mellitus (on insulin)
+- Hypertension
+
+Provisional Diagnosis:
+- Invasive fungal sinusitis (Mucormycosis)
+
+Plan / Advice:
+1. MRI brain and orbit
+2. Ophthalmology opinion
+3. Major surgical debridement
+4. Fitness and pre-anesthetic checkup
+5. RT chest HRCT

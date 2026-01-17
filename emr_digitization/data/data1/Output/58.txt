@@ -1,0 +1,16 @@
+Prescription Note
+
+Lab Values:
+- Hb: 9.8 g/dL
+- TLC: 9800
+- Platelets: 420000
+- ESR: 25
+- PCV: Low
+- MCV: Low
+- MCH: Low
+- Typhidot IgM: Negative
+
+Medications:
+1. Syp Cefolac (5 ml/100 mg) – 3 ml BD × 7 days
+2. Syp RB Tone Kid (5 ml/80 mg) – 2.5 ml OD × 2 months
+3. Syp Wikoryl – 3 ml BD × 3 days

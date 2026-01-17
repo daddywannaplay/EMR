@@ -1,0 +1,70 @@
+RADIOMETER ABL800 FLEX
+ABL835 RUBY-WANAWORIE NABL MC-5307 06:49 AM 1/26/2025
+PATIENT REPORT Syringe - S 195uL Sample # 41496
+
+| Identifications ~
+| Patient ID W2500438
+cote PC
+Patient
+Sample Not specified
+re = 20'S
+FO,|) 21.0%
+Blood Gas Values
+pH 7AM [ 7.350 - 7.450 ]
+pco, 39.8 © mmHg [ 35.0 - 450 ]
++ pa, 62.4 mmHg {[ 830 - 108 ]
+Acid Base Status
+
+chCO,(P.st)¢ 24.9 mmo /i_
+
+chGO,(P)¢ 24.3 mmo /L
+
+ctCO,(B)¢ 51.8  Vol%
+
+cBase(B)¢ 0.7 mmo /L
+
+cBase(Ecf)¢ 0.7 mmo /_
+
+Baro. 706 mmHg
+
+Oximetry Values
+
+ctHb 9.6 gol
+
+Hete 29.7 %
+
+sO, 913 %
+
+ctO.¢ 12.1 Vol%
+
+FO,Hb 89.2 %
+
+FCOHb 2.2 %
+
+Electrolyte Values
+cNat* 137 mmo/L [ 135 - 146 ]
++ ck* 32 mmo /_ [ 35-50 J
+4 cCa* 1.02 mmo /L [ 116 - 129 ]
+ech 104 mmo /L. [ 95 - 105 J]
+Metabolite Values
+clac 1.5 mmo /L [ 05-16 4)
+Tempereture Corrected Values
+
+PHT Je 7.631
+
+pCO{T Jo 19.3 mmHg
+
+p(T )e 22.9 mmHg
+
+Oxygen Status
+
+p50, 26.09 mmHg
+Notes
+4 Value(s) below reference range
+c Calculated value(s)
+
+1035; One or more derived parameters cannot be
+calculated
+Printed  @SO24AM 11060025
+|
+ee ee Spe .

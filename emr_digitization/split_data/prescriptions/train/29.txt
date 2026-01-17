@@ -1,0 +1,17 @@
+Form: DD Form 1289 – DOD Prescription
+Date: 23 Jan 1999
+
+Patient: John R. Doe, HM3, USN
+Medical Facility: U.S.S. Neverforgotten (DD 178)
+
+Prescription:
+- Tincture Belladonna – 15 ml
+- Amphogel gel – 120 ml
+
+Instructions:
+- Mix & filter solution
+- Sig: 5 ml TID a.c.
+
+Manufacturer: Wyeth
+Expiry Date: 12/02
+Prescriber: Jack R. Frost, LCDR, MD, USNR

@@ -1,0 +1,13 @@
+Hospital: Manila Doctors Hospital
+Doctor: Dr. Reynaldo O. Jason
+Date: 24/01/2017
+
+Patient: Lina Cruz
+
+Medication:
+- Tramadol + Paracetamol tablets
+Quantity:
+- #20 tablets
+
+Instructions:
+- Take 1 tablet every 6 hours

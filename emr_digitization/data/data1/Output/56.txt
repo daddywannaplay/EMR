@@ -1,0 +1,15 @@
+Hospital: Medical Center Hospital
+Location: Odessa, Texas
+Date: 06/23/2015
+
+Patient: Vasquez Ramon
+
+Medications:
+1. Reddin 20 mg – Qty 120
+   Dosage: 20 mg PO
+2. Ferrous Sulfate 300 mg – Qty 100
+   Dosage: 300 mg PO TID × 6 months
+3. Humulin N
+   Dosage: 30 units SC every morning
+
+Dispense as written

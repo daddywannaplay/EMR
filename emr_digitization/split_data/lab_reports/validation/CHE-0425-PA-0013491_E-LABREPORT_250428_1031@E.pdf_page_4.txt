@@ -1,0 +1,61 @@
+Patent ID : rs Sample No : 25042348
+— —<— es
+Et es ee
+ia : Dr.S.Rajasekaran. M.S, DNB, F.R.C.S.(ED), M.CH(LIV), F.A.C.S, Reviewed On : [J 01:03pm
+F.R.C.S.(ENG), PH.D. Locaton : 2034-D
+
+Speciality : Diabetc/Ortho DoctorUnit : SR
+
+Testi Obtiained Value Bio.Ref.Intierval Uniti DoneBy
+HAEMATOCRIT (PCV) 40.0 36 to 46 % KOKILA G
+Method : CALCULATED
+
+Sample : BLOOD
+
+Mcv { 82 83 to 101 fl KOKILA G
+Method : CALCULATED
+
+Sample : BLOOD
+
+MCH { 26.2 27 to 32 pg KOKILA G
+Method : CALCULATED
+
+Sample : BLOOD
+
+MCHC 32.0 31.5 to 34.5 % KOKILA G
+Method : CALCULATED
+
+Sample : BLOOD
+
+PLATELET COUNT 259000 150000 to 410000 cells/cu.mm —KOKILAG
+Method : ELECTRICAL IMPEDENCE
+
+Sample : BLOOD
+
+TOTAL WBC COUNT 9200 4000 to 10,000 cells/cu.mm — KOKILAG
+Method : ELECTRICAL IMPEDENCE
+
+Sample : BLOOD
+
+NEUTROPHILS 63.0 40 to 80 % KOKILA G
+Method : ELECTRICAL IMPEDANCE/FLOW CYTOMETRY
+
+Sample : BLOOD
+
+LYMPHOCYTES 26.1 20 to 40 % KOKILA G
+Method : ELECTRICAL IMPEDANCE/FLOW CYTOMETRY
+
+Sample : BLOOD
+
+MONOCYTES 5.7 2to 10 % KOKILA G
+Method : ELECTRICAL IMPEDANCE/FLOW CYTOMETRY
+
+Sample : BLOOD
+
+EOSINOPHILS 4.7 1to6 % KOKILA G
+Method : ELECTRICAL IMPEDANCE/FLOW CYTOMETRY
+
+Sample : BLOOD
+
+Dr. N. Bharatihi Santihose ND., Dr. M. Shyam Kumar M.B.B.S., D.C.P.,
+Clinical Microbiologist Head Of the Department

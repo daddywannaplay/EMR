@@ -1,0 +1,17 @@
+Clinic: Dr. Sachin Kumar SG Clinic
+Age: 30 years
+
+Complaints:
+- Allergic rhinitis
+- Severe throat pain
+
+Vitals:
+- Pulse: 130/min
+- BP: 80 mmHg
+
+Medication:
+- Neurokind Plus – 30 tablets
+
+Advice:
+- Oro-T gargles
+  (2 tsp in 1/2 glass lukewarm water)

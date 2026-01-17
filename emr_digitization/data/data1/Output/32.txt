@@ -1,0 +1,15 @@
+Healthcare System: NHS
+
+Patient: Ms. Denise W.
+DOB: 1990
+Age: 21½
+Address: 23 Grosvenor Road, Jesmond, Newcastle on Tyne
+NHS No: 01001100
+
+Prescription:
+- Write out one thousand times:
+  "CAPITALISM IS WONDERFUL"
+
+Prescriber: Milton Friedman
+Institute: Adam Smith Institute, Edinburgh
+Date: 14/11/—

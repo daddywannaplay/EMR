@@ -1,0 +1,81 @@
+= HOSPITALS
+LABORATORY INVESTIGATION REPORT
+
+Patient i i i | Fs
+UHID : AIGG.20825010 | 00:17
+Episode + IP | + 113160 / 806
+
+Ref. Doctor : Dr, ARABIND PANDA | a
+
+Facility : AIG Hospitals, Gachibow|
+Haematology
+
+Sa ee PS UNI BIOLOGICAL REF INTERVAL
+Sample No; AG}10328134 Collection Date: 18/04/25 04:53 Ack Date: 18/04/2025 10:59 ‘Report Date + igj0s/25. 1442 =
+CBP (COMPLETE BLOOD PICTURE)
+
+Sample Type. EDTA Whale Blood
+
+HEMOGLOBIN 13.7 g/dl 13.0 - 17.0
+Methad - Photametnic/Spec trophotonetry/Calaninetric
+
+RBC 4.51 cells/cumm 4.5-5.5
+
+Method « Blectanic Impedance /. Impedance
+
+PCV 42.6 % 40.0 - 50.0
+isethod - Catoutatad
+
+MCV 94.4 fl 83.0 - 101.0
+Method - VCS Technology / Calculated’ / Numeric
+
+Jategration
+
+MCH 30.4 Pg 27.0 - 32.0
+Method - Catcutater
+
+MCHC 32.2 g/dl 31.5 = 34.5
+Method - Calculated
+
+RDW. 12.8 % 11.6 - 14
+
+Method - VCS Technology / Catoutatad
+
+TOTAL WBC 8120 cells/cumm 4000 - 10000
+Method » Electrical Impedarice ¢ Foweyiometry DHSS and
+
+Impedance Roweytomelry (SF OUBE}
+
+DIFFERENTIAL COUNT
+
+NEUTROPHILS 76.8 % 40 - 80
+
+Method - VCS Techaoioyy / Caluctated / Howe yiometry
+
+onss
+
+LYMPHOCYTES 13.3 ¥ (L) %G 20 - 40
+
+Method - VCS Tectnalogy / Catuctated / Flowcytometry
+
+OHSS
+
+EOSINOPHILS 0.3 y(t) % 1.0- 6.0
+
+Method - VES Techaaiogy / Caluciated / Flowe ‘ylometry
+
+OSS
+
+MONOCYTES 9.5 Ye 2.0 - 10.0
+
+Method - VES Technoiooy / Calculated Flovcytometry
+
+Duss
+
+BASOPHILS 0.1 % 0-2.0
+
+Method - VCS Technotogy / Caluctated / Impedence
+ABSOLUTE LEUCOCYTE COUNT
+
+Q Mindspace Road, Gachibowli, Hyderabad, Telangana - 500 032 © +91 40 42444222 @ infow@aighospitals.com Po
+AIG Hospitals (a unit of Asian Institute of Gastroenterology) CIN; U99999TGT994PTCO18352 =

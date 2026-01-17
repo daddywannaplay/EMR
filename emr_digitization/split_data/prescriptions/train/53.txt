@@ -1,0 +1,27 @@
+Hospital: Fortis Institute of Advanced Orthopaedics
+Location: New Delhi
+Date: 11/05/2021
+
+Patient: Chitra Aggarwal
+Age/Sex: 57 / Female
+UHID: 1305501
+
+Medical History:
+- Low back ache (2 years)
+- Exertional pain
+- Stiffness
+
+Clinical Findings:
+- Spondylosis
+- Bilateral SLR positive
+- OA knee
+
+Advice:
+1. X-ray LS spine (AP & lateral)
+2. Avoid poor posture (>30 min)
+3. Core strengthening & static exercises
+4. Spine flexion exercises
+5. Hip abduction set
+6. Calcium + Vitamin D supplementation
+
+Doctor: Dr. Dhananjay Gupta

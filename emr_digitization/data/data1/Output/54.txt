@@ -1,0 +1,15 @@
+Hospital: Fairview University Medical Center
+Location: Minneapolis, MN
+
+Patient: Mickey Mouse
+DOB: 10/10/1970
+Date: 28/11/2006
+
+Medication:
+- Atenolol 25 mg – Qty 30
+
+Instructions:
+- Take 1 tablet PO daily
+
+Refills:
+- May be refilled 6 times

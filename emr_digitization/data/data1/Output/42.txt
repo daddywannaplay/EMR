@@ -1,0 +1,13 @@
+Medical Center: Klippa Medical Center
+Location: Groningen, The Netherlands
+Date: 20/01/2025
+
+Patient: Mario Carlos van der Vaart
+Age: 38
+
+Medications:
+- Paracetamol 50 mg
+- Ibuprofen 150 mg
+
+Signed by:
+Dr. Bill Andrew Balmer

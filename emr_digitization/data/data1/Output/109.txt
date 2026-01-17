@@ -1,0 +1,9 @@
+Medicine Order:
+
+STALEVO 125 / 31.25 / 200
+Dose: 1 tablet
+Route: Oral
+Frequency: HS
+
+Indication:
+Levodopa + Carbidopa + Entacapone

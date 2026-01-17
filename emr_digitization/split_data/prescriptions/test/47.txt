@@ -1,0 +1,10 @@
+Pharmacy: Midtown Park Pharmacy
+Location: Fairview, Texas
+
+Prescription:
+1. Pan – 12 tablets
+2. Sinarest 25 mg (multivitamin)
+3. Sig: 1 tablet for 8 days
+
+Notes:
+- As directed by physician

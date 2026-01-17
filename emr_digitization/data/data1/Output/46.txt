@@ -1,0 +1,12 @@
+Hospital: AIG Hospitals
+Location: Gachibowli, Hyderabad
+Date: 15/05/2021
+
+Patient: Ratna Harisu
+Age: 58
+
+Medication:
+- Inj. Ambisome 50 mg (Total dose: 120 mg)
+  Converted to Inj. Amphotericin
+
+Doctor: Dr. Srinivas Kishore

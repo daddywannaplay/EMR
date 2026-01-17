@@ -1,0 +1,50 @@
+-_—  °&zBRIGARSATASH——UL—~—
+RADIOMETER ABL800 FLEX
+ABL835 RUBY-WANAWORIE NABL MC-5307 06:34PM =
+PATIENT REPORT Syringe - S 195uL Sample # 41328
+Identifications OO
+) Patient ID MR ASHWIN
+Patient Last
+| = a
+Sample} Venous
+: T 22.0 °S
+| FO,(|) 21.0%
+Blood Gas Values
+pr 7.405 [ 7.350 - 7.450 ]
+t pco, 45.2 mmH¢ [ 350 - 450 ]
+4 po, 39.5 mmHg [ 830 - 108 J]
+Acid Base Status
+cHCO,-(P.st)¢ 27.0 mmo /L
+cHCO, (Pie 7H we f mmo /.
+ctCO,(B)¢ 60.9 Vol%
+cBase(B)¢ 3.3 mmo /_
+cBase(Ecf)¢ 3.3 mmo /_
+Baro 705 mmHg
+Oximetry Values
+etHb 4 6.1 Felcal
+Hete 19.1%
+sd, 65.7%
+ct0.c¢ 5.5 Vol%
+FO,Hb 64.0 %
+FCOHb 1.4 %
+Electrolyte Values
+cNa* 139° mmo/_ [ 1356 - 146 |
+ck 44 mmo /_ rf 35-50 |
+4 cCa 1.13 mmo/. [ 115 - 129 ]
+ecr 405 namo /_ [ 95 - 105 |
+Metabolite Values
+# cLac 5.0 mmo/. [ 05-16 |
+Temperature Corrected Veiluies
+PRT Je 7424
+pGO,AT Jo 21.9 mmHg
+pOtT je 13.3 mmH¢
+Oxygen Status
+p50> 31.13 mmH¢ |
+Notes
+t Value(s) above reference range
+t Value(s) below reference range
++ Value(s) above the critical limits
+Cc Calculated value(s)
+1035: One or more derived parameters cannot be
+calculated
+Printed @3550PM 1206025 f

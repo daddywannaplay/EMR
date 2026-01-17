@@ -1,0 +1,50 @@
+|_| | LL
+| : MHO01579265 : Dr Shrinivas R P
+Episode No a
+TEST RESULT UNITS REFERENCE
+ROUTINE URINE ANALYSIS (Automated) Specimen-Urine
+MACROSCOPIC DESCRIPTION
+Colour (Macroscopy) PALE YELLOW (Pale Yellow - Yellow)
+Appearance (Macroscopy) SLIGHTLY TURBID
+Reaction[pH] (Strip Double Indicator) 8.0 (4.6-8.8)
+Specific Gravity(Ionic Conceration) 1.015 (1.015-1.025)
+CHEMICAL EXAMINATION
+Protein/Albumin (Strip Method) NIL (NIL-TRACE)
+Glucose (Benedict / Strip Method) NIL (NIL)
+Ketone Bodies (Rothera's/Strip Method) NIL (NIL)
+Urobilinogen(Ehrlich reaction/Strip Method) NIL (NORMAL)
+Bile Salts(Hay's Test) NIL (NEGATIVE)
+Bile Pigments (Fouchet's test) NIL (NIL)
+MICROSCOPIC EXAMINATION
+WBC/Pus Cells 4-6 /hpf (4-6)
+Red Blood Cells NIL (1-2)
+Epithelial Cells 1-2 /hpf (2-4)
+Casts HYALINE CAST (NIL)
+Crystals NIL (NIL)
+Collection Date/ Time : ER 12:52
+COMPLETE BLOOD COUNT (Automated) Specimen-EDTA Blood
+WBC Count (TC) 9000 /cu.mm [4400-11000]
+RBC Count 5.15 million/cu.mm [4.50-5.50]
+Haemoglobin 15.0 g/dl (13.0-<17.0]
+Haematocrit [PCV] 42.6 % [40.0-50.0]
+MCV 82.6 # fl [83.0-101.0]
+MCH 29.1 Pg [27.0-32.0]
+MCHC 35.2 # g/dl [31.5-34.5]
+Platelet Count 242000 / cu.mm [150000-400000)
+RDW (CV) 13.2 % [11.6-14.0]
+DIFFERENTIAL COUNT
+Neutrophils 55.1 % [40.0-75.0]
+Lymphocytes 36.9 % [20.0-45.0]
+Monocytes 5.6 % [2.0-10.0]
+Eosinophils 1.8 % [0.0-7.0]
+Basophils 0.6 % [0.0-1.0]
+Collection Date/ Time : 12:32
+SERUM CREATININE (Kinetic mod.Jaffe) 0.84 mg/dl ([0.80-1.60]
+*eGFR (Calculated) 105.7 ml/min/1.73sq.m [>60.0]
+Disclaimer :
+eGFR which is primarily based on Serum Creatinine is a derivation of CKD-EPI 2009
+equation normalized tol.73 sq.m BSA and is not applicable to individuals below 18 years.
+eGFR tends to be less accurate when Serum Creatinine estimation is indeterminate e.g.
+patients at extremes of muscle mass, on unusual diets etc. and samples with severe Hemolysis /
+Icterus / Lipemia.
+Collection Date/ Time : ER 14:52

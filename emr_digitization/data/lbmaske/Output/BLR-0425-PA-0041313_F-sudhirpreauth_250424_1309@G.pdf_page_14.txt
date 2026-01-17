@@ -1,0 +1,47 @@
+Jupiter Hospita
+p pital
+Patient First
+HAEMATOLOGY: Result No.
+|| a ee eee
+a ee ee
+; : Whole Blood Received On ME 01:16:51 PM
+Referred By : Dr. Dushyant Wamaarao Khedikar - Reg No. Reported On | / 01:21:55 PM
+a MR No. 5289551
+: Bill No. : 08B-2025-000348
+Investigations 7 Methods ————CSsé&RRsullt _Unit Biological Ref. Interval
+Complete Blood Count
+Hemoglobin Colorimetric 14.1 g/dl 13.00 - 18.00
+Red Cell Count Light Scattering 4.95 10%6/ul 4.50 - 6.50
+Hematocrit Light Scattering 44.7 % 40.00 - 54.00
+MCV Calculated 90.3 fl 76.00 - 96,00
+MCH Calculated 28.6 pg 27.00 - 32.00
+MCHC Calculated 31.6 g/dl 30,00 - 35.00
+RDW Calculated 13.9 % 11.50 - 14.50
+WBC Count Light Scattering 9.44 10°3/ul 4.00 - 11.00
+Platelet Count Light Scattering 183 1043/ul 150.00 - 450.00
+Diff. WBC Count
+Neutrophils Light Scattezing 67 % 40.00 - 70.00
+Lymphocytes Light Scattering 26 % 15.00 - 40.00
+Eosinophils Light Scattering 02 % 2.00 - 6.00
+Monocytes Light Scattering 05 % 2.00 - 8.00
+Basophils Light Scattering 00 % 0.00 - 2.00
+Absolute Neutrophils Calculated 6.32 1043/ul 1.60 - 7.70
+Absolute Lymphocytes Calculated 2.45 10%3/ul 0.60 - 4.40
+Absolute Eosinophils Calculated 0.19 10%3/ul 0.00 - 0.45
+Absolute Monocytes Calculated 0.47 1043/ul 0,08 - 0.88
+Peripheral Smear
+RBC Menual Normocytic Normocytic
+Normochromic Normochromic
+WBC Manual Within Normal Limits Within Normal Limits
+Platelet Manual Adequate Adequate
+—
+Checked By Dr. Sonam Joshi
+Rakhee Balrajsingh Chau Consultant Pathologist
+Partial Reproduction of Report not permitted, This report relates to sample received by the laboratory.
+Printed By: AUTOMATED ; EE ee
+Jupiter Hospital
+Near Prathamesh Park, Baner, Pimple Nilkh
+Road, Pune, Maharashtra 411045
+Website : www.jupiterhospital.com
+"A division of Jupiter Lifeline Hospitals Ltd."
+Round the clock

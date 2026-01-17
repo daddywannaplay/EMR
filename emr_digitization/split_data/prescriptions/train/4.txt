@@ -1,0 +1,24 @@
+Emergency Registration Card - Dr. Baba Saheb Ambedkar Hospital (18-07-2021)
+
+Patient: Laxmi
+Sex: Female
+Age: 52 years
+Location: Pitampura
+
+Vitals:
+- Pulse: 80/min
+- Blood Pressure: 120/80 mmHg
+
+Complaints:
+- Abdominal pain
+- Vomiting
+
+Diagnosis:
+- Cholodochal mass with gall bladder malignancy
+- Metastatic lymph nodes
+
+Treatment:
+- Inj. Diclofenac 75mg IM Stat
+- Inj. Pantop 40mg IM Stat
+
+Doctor: RMO Surgery S/R

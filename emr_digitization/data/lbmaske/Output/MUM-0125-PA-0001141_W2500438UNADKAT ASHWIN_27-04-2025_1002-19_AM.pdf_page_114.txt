@@ -1,0 +1,49 @@
+——~ Sr Nn Cem _E~SS—~—~—‘—>se]h”
+RADIOMETER ABL800 FLEX
+ABL835 RUBY-WANAWORIE NABLMC-5307 08:564M [x
+PATIENT REPORT Syringe - S 195uL Sample # 41419
+Identifications ¥
+Pelont a... BRP 3s~)
+Sample Arterial
+“ia = 220°C 26
+FO,() 21.0% . Bb
+Blood Gas Values
+pH 7.394 [ 7.350 - 7.450 ]
+ft poco, 43.0 mmHg [ 350 - 450 J
+4 pQ, 30.7 mmH¢ [ 830 - 108 ]
+Acid Base Status
+cHCO,(P.St)e ot mmo /l_
+chCO,(P)¢ 23.3 mmo fl.
+ctCO,(B)¢ 61.41 Vol%
+cBase(B)¢ 3.3 mmo fl.
+cBase(Ecf)¢ 41 mmo /L
+Baro, 706 mmH¢
+Oximetry Values
+ctHb 9.2 g/eL :
+Hete 23.7 % ¢
+sO, 50.2 %
+10.6 6.4 Vol%
+FO,Hb 43.3 %
+FCOHb 1.6 %
+Electrolyte Values
+cNat 136 mmo /|_ { 135 - 146 ]
+4 cK* 3.2 mmo fl. [ 3.6 - 5.0 ]
+4 cCa?’ 1.08 mmo /_ [ 116 - 1.29 J
+ech 101 mmo /L [ 95 - 105 |]
+Metabolite Values
+) # clac 24 mmo/ [ 05-16 |]
+| Temperature Corrected Values &
+PH(T Je 7.613 NR
+pCO,(T Ie 23.3. mmb¢
+pQ%,'T)o 10.5 mmHg |
+Oxygen Status
+FShunte 52.7 %
+p50, 30.61 mmkg
+Notes
+t Value(s) above reference range
+4 Value(s) below reference range
+t Value(s) above the critical limits
+c Calculated value(s)
+e Estimated value(s)
+Printed B57 43AM 1230025.
+ee ee ee eee ee ee ee ee eS

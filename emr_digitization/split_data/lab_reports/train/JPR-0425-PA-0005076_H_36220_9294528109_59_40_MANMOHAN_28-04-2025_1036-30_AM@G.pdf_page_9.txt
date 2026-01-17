@@ -1,0 +1,49 @@
+}
+|
+{
+i
+Rajasthan j
+Hospital |
+{
+j
+Diagnostics S.No. : OT eS ; RH/23/002750)31504747
+Patient NAME : Mr. MAN MOHAN NATH ZUTSHI IPDNo 1 23916 |
+sga/Six mes Seiple Cotecion Te
+Dector : Dr. Ajay Reporting Date 3 27-Jan-2023 97:29 PM
+|
+|
+Test Name Status Result Reference Range Unit
+| BIOCHEMISTRY j
+KIDNEY FUNCTION TEST KFT RFT (SERUM) |
+Urea, Blood, Grease GLDH reaction H 183.3" 16,60-48.5 mg/dl j
+Creatinine, Serum, Jaffe Methoa H 6,9* 0.70-1.20 mog/di |
+Uric Acid, Serum, Uricase Peroxidase Reaction 7.6° 3.4-7.0 mgsat }
+Sannphe Type | Sei |
+ELECTROLYTES (SERUM) |
+Sodium, Serum, iS - indirect 143 136,0-145.0 mmol/L |
+Potassium, Serum, 1S€ - indirect 5.1 3.50-5.10 mmol/L
+| Chloride, ise - mnairect 106.9 98.0-109.0 mmol/L |
+| LFT LIVER FUNCTION TEST (SERUM)
+\ Sitirubin, Total, oiazc mathod{cotorimatriccsfendrazst 04 0.30-1.40 mg/dl {
+| Bilirubin, Direct, Diazo method{colorimetrice Yendressik 0.2 0.00-0.20 mg/dl }
+| Bilirubin, Indirect, Celculeted 0.2 0.10-1.00 mg/dl. }
+| SGOT (AST), Serum, iFCC with PYP 19.8 0.0-40.0 UAL
+| SGPT (ALT), Serum, cc win Pye 15.1 0.0-41.0 UA
+| Alkaline Phosphatase (ALP), Serum, pnp aup 75 35.0-129.0 UA
+Kinetic
+Protein, Total, aiuret - colormemc 6.7 6.0-8.0 gid.
+| Albumin, 806 - Coterimetrie 3.8 3.5-5.2 g/dl. i
+|
+| Globulin, coiculsted 29 2.00-3.50 g/d
+AIG Ratio, Calcuioted 1.3 :
+| DR. APOORVA SARASWAT
+TECHNOLOGIST MBRS, MD (PATHOLOGY)
+} Test (s) performed on collected sample (s) received . Please correlate with clinical findings & other related investigations,
+| Subject tb jaipur jurisdiction, only. This report is not for medico-legab Purpose.
+| ABH Leal
+7 Mahavir Jaipuriya MC: $i
+Rajasthan Hospital, RHL HO Se
+BILN Marg, Jaipur-302018 +91 141 2720020 @www.rajasthanhospital.in WRU Aas
+{
+|
+{

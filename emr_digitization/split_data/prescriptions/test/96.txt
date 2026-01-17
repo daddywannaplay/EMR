@@ -1,0 +1,11 @@
+Pediatrics Unlimited
+Date: March 10, 2009
+Patient: Kevin Zadnick
+DOB: July 28, 2009
+Weight: 16 pounds
+Allergies: NKDA
+
+Rx:
+Ferrous Sulfate 4 mL PO TID
+Dispense one bottle
+Refills: 6 months

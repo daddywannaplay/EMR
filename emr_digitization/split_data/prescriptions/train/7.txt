@@ -1,0 +1,18 @@
+Preethi Child Clinic – Dr. D. Ravi Shankar (23-11-19)
+
+Patient: Sangeeth
+Sex: Female
+Age: 6 months
+Weight: 8.6 kg
+Temperature: 98°F
+
+Symptoms:
+- Cold
+- Cough (2 days)
+
+Medications:
+1. T-minic drops – 0.3 ml ×3/day
+2. Ashtakind drops – 0.4 ml ×3/day
+3. Advent drops – 0.8 ml ×3/day (3 days)
+4. Nasoclear nasal drops – 0.5 cc
+5. HHZole cream – twice daily

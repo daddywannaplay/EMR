@@ -1,0 +1,17 @@
+Patient Name: Armando Cequia
+Address: West Rembo, Makati City
+Age: 29
+Sex: Male
+Date: 12/03/1990
+
+Medication:
+- Amoxicillin 500 mg capsules
+Quantity:
+- #21 capsules
+
+Instructions:
+- Take 1 capsule three times a day for seven days
+
+Physician:
+- Dr. Jodila Cruz
+License No: 123457

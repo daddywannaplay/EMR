@@ -1,0 +1,15 @@
+Hospital / Clinic: Nanavati Super Speciality Hospital
+IP No: 21/4643
+UHID: 896539
+Date: 16/05/2021
+
+Patient: Mr. Subhash Kumar Kulshreshtha
+Age/Sex: 73 Years / Male
+Ward: ICU/EICU
+Consultant: Dr. Amol Anandrao Patil (ENT)
+
+Medication:
+- Inj. Liposomal Amphotericin B 50 mg
+  Dosage: 6 vials/day (300 mg)
+
+Signature: Doctor

@@ -1,0 +1,48 @@
+LAB TEST REPORT
+| a P| FFT
+HMM Episode No —:- 13804200 | Report Date : [07:32:10.000
+Ordering Doctor : Dr.Subhaprakash Sanyal & Team Episode Type : IPD
+| a ss
+HR HEMOGLOBIN, EDTA WHOLE BLOOD (3180-SRL)[3180][3180]
+GLYCOSYLATED 6.6 Non-diabetic High %
+HEMOGLOBIN (HBA1C) Adult < 5.7
+Pre-diabetes
+5.7-6.4
+Diabetes
+diagnosis:
+&gt; or =6.5
+Therapeutic
+goals: < 7.0
+Action
+suggested :
+&gt; 8.0
+(ADA
+Guideline
+2021)
+MEAN PLASMA GLUCOSE 142.7 < 116.0 High mg/dL
+HEPATITIS B CORE ANTIBODIES (TOTAL), SERUM (2452-SRL)
+HEPATITIS B CORE NON REACTIVE NON
+ANTIBODIES (TOTAL) REACTIVE
+PATIENT VALUE 0.150 < 1.00 (Non s/CcO
+Reactive)
+&gt; or = 1.00
+(Reactive)
+HEPATITIS B SURFACE ANTIGEN; QUANTITATIVE (CMIA)(SRL- 7658)
+HEPATITIS B SURFACE 0.39 < 1.00 Non- col
+ANTIGEN reactive
+&gt; or = 1.00
+Reactive
+HEPATITIS C ANTIBODIES, SERUM (2446-SRL)
+HEPATITIS C ANTIBODIES NON REACTIVE NON
+REACTIVE
+PATIENT VALUE 0.05 < 0.9:Non- col
+reactive
+&gt; or = 0.9
+to<
+1.0
+:Borderline
+&gt; or =
+1.0:Reactive
+HIV-1&2 ANTIBODIES, SERUM (9916-SRL)
+HIV 4TH GEN ASSAY (P24AG + NON REACTIVE NON
+HIV AB) REACTIVE

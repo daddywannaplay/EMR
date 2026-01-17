@@ -1,0 +1,24 @@
+KIMS SUPER SPECIALITY HOSPITAL – LAB REPORT
+
+Department: Hematology
+Test: Complete Blood Picture (CBP), EDTA Whole Blood
+
+Haemoglobin: 13.1 g/dL
+PCV: 37.2 %
+RBC Count: 4.20 million/cumm
+MCV: 88.5 fL
+MCH: 31.2 pg
+MCHC: 35.2 g/dL
+RDW-CV: 12.6 %
+Platelet Count: 1.72 lakhs/cumm
+MPV: 8.9 fL
+WBC Count: 6980 cells/cumm
+
+Differential Count:
+Neutrophils: 65.7 %
+Lymphocytes: 27.6 %
+Eosinophils: 2.4 %
+Monocytes: 3.3 %
+Basophils: 1.0 %
+
+End of Report

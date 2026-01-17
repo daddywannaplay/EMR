@@ -1,0 +1,16 @@
+Doctor: Dr. W. P. Baker
+Profession: Physician and Surgeon
+Location: Hillman City, Seattle
+
+Diagnosis:
+- Sick headache
+
+Medications:
+- Ext. Cannabis Ind.
+- Croton chloral
+
+Quantity:
+- Capsules: No. XVI
+
+Instructions:
+- Give one tablet, repeat in 1/2 hour if required

@@ -1,0 +1,14 @@
+Pharmacy: Carlton & Sons
+Location: Horncastle
+
+Prescription For:
+- Mr. R. H. Kile
+
+Medications:
+- Liq. Styphe
+- Acid Hyd. Dil.
+- Glycerin
+- Chloral Hydrate
+
+Instructions:
+- Mix and dispense as directed

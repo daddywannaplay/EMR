@@ -1,0 +1,14 @@
+Hospital / Clinic: Walton Physicians Supply Co., Columbus, Ohio
+Doctor: Not mentioned
+Date: 10/05/—
+
+Patient: E. Wagner
+
+Medications:
+1. Potassium iodide
+2. Sodium bicarbonate
+3. Potassium citrate
+4. Magnesium sulphate
+
+Instructions:
+- One dose in the morning and evening

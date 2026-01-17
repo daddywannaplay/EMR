@@ -1,0 +1,31 @@
+Hospital: Dr. Baba Saheb Ambedkar Hospital, Rohini
+Department: Emergency / Casualty
+Date & Time: July 18, 2021 – 09:19 AM
+
+Patient: Laxmi
+Age: 52
+Sex: Female
+Address: Pitampura
+
+Vitals:
+- Pulse: 80/min
+- BP: 120/80 mmHg
+
+Complaints:
+- Pain in abdomen
+- Vomiting
+
+History:
+- Type 2 Diabetes Mellitus
+- Hypertension
+
+Investigations / Findings:
+- CECT abdomen: gall bladder malignancy
+- Choledocholithiasis
+- Multiple peripancreatic & periportal lymph nodes (metastatic)
+
+Treatment:
+1. Inj. Diclofenac 75 mg – IM stat
+2. Inj. Pantoprazole – IV stat
+
+Doctor: Surgery SR

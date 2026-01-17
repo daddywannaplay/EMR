@@ -1,0 +1,11 @@
+Ramaiah Memorial Hospital
+Patient: Shailendra Kumar
+Age: 37
+Sex: M
+Date: 24/06/2021
+
+Rx:
+Inj Remdesivir 200 mg IV Day 1
+Followed by 100 mg IV for 4 days (Day 2–5)
+
+Dr Guru

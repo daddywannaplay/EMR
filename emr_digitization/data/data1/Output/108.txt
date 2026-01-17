@@ -1,0 +1,29 @@
+Emergency / Casualty Registration Card
+Bhagwan Mahavir Hospital, Pitampura, Delhi
+
+Patient Name: Laxmi
+Age: 52 Years
+Sex: Female
+Date: 13/07/2021
+Time: 11:48 AM
+
+Provisional Diagnosis:
+K/C/O HTN
+C/O pain abdomen
+
+O/E:
+GC fair
+BP: 110/80 mmHg
+PR: 84 bpm
+
+Advice:
+- Inj Diclo 1 amp IM stat
+- Inj Rantac 1 amp IV stat
+- ORS 1 litre
+- Tab Diclo 1 tab BD
+- Tab Rantac 1 tab OD BBF
+
+USG dated 23/03/2021:
+Cholecystitis
+Cholelithiasis
+Muco/pyocele of GB

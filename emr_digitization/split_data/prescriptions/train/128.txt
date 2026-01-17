@@ -1,0 +1,13 @@
+Emergency Registration Card
+
+Name: Laxmi
+Age: 52
+Sex: Female
+Address: Pitampura
+
+Complaints:
+Pain in abdomen
+Vomiting
+
+Provisional Diagnosis:
+Acute cholecystitis with cholelithiasis

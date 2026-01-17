@@ -1,0 +1,16 @@
+Ophthalmology Prescription
+
+Right Eye (OD):
+- Sphere: -2.00
+- Cylinder: -1.00
+- Axis: 100
+
+Left Eye (OS):
+- Sphere: -2.75
+- Cylinder: -0.75
+- Axis: 90
+
+Additional:
+- Add: +2.25
+
+Signature: Doctor

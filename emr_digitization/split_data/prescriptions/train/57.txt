@@ -1,0 +1,17 @@
+Doctor: Dr. B. Who
+Address: Farmstreet 12, Kirkville
+Phone: 3876
+Date: 01 Nov 1994
+
+Patient: Ms/Mr Patient
+Age: 70 years
+
+Medication:
+- Digoxin 0.125 mg
+Quantity:
+- Tablets: No. 7
+
+Instructions:
+- Take 1 tablet daily
+
+Signature: Dr. B. Who

@@ -1,0 +1,15 @@
+{
+  "prescriptions": {
+    "total": 129,
+    "train": 90,
+    "test": 19,
+    "validation": 20
+  },
+  "lab_reports": {
+    "total": 426,
+    "train": 298,
+    "test": 63,
+    "validation": 65
+  },
+  "total_samples": 555
+}

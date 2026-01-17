@@ -1,0 +1,14 @@
+Hospital / Clinic: Private Clinic, Columbus, Ohio
+Doctor: William Lewis Towns, M.D.
+Date: 10/05/—
+
+Patient: Ruth O.
+Address: 801 S. 18th
+
+Medications:
+1. Sodium bicarbonate
+2. Potassium citrate
+3. Potassium iodide
+
+Instructions:
+- Take as directed

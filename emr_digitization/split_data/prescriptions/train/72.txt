@@ -1,0 +1,27 @@
+Trauma Center Prescription
+
+Patient Name: Zahidul Haque
+Age: 30 years
+Date: 13/11/10
+
+Complaint:
+- Pain in right knee for 1 month
+- Difficulty climbing stairs
+- No bony injury
+
+Investigations:
+- X-ray right knee (AP, Lateral, Axial, Tunnel view)
+
+Medications:
+1. Tab Ultrafen Plus 50 mg – 2-0-2
+2. Tab Relentus – 0-0-1
+3. Cap Bromhexine – 2-0-2
+4. Tab Ulcal-D – 0-2-0
+5. Tab Cartilox – 2-0-2
+
+Advice:
+- Knee cap support (right)
+- Physiotherapy and exercises
+
+Follow-up:
+- MRI right knee

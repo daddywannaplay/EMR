@@ -1,0 +1,14 @@
+Hospital: HealthCare Global Enterprises Ltd. (HCG)
+Location: Bengaluru
+
+Patient: Mohammed
+Consultant: Dr. Aravind
+
+Prescription:
+1. Inj. Liposomal Amphotericin-B 350 mg IV daily × 4 weeks
+OR
+2. Inj. Amphotericin-B 70 mg IV daily × 4 weeks
+OR
+3. Inj. Isavuconazole 200 mg IV – 1-1-1 × 2 weeks
+OR
+4. Cap Isavuconazole 200 mg – 1-0-1 × 2 days

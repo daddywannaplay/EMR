@@ -1,0 +1,52 @@
+COMPLETE URINE EXAMINATION - 08:54
+Parameter Result Normal Range
+COLOUR. Pale yellow Pale yellow
+UROBILINOGEN Normal Negative
+BLOOD Negative Negative
+NITRITE Negative null
+LEUCOCYTE'S Negative Negative
+ASCORBIC ACID Negative Negative
+EPITHELIAL CELLS 6-8/HPF Negative or rare <= 2/HPF)
+PUS CELLS 2-3/HPF Negative (<=2/HPF)
+R.B.C. 1-2/HPF Negative or rare (<=2/HPF)
+CASTS Nil 0 - 5 hyaline casts/ HPF
+CRYSTALS Nil Negative - occasional
+APPEARANCE Slightly Turbid Clear
+OTHERS Nil Nil
+NOTE null
+REACTION (PH) 5.5 4.5 to 8.0
+SPECIFIC GRAVITY 1.025 1.005 to 1.025
+GLUCOSE Negative Negative
+PROTEIN Negative Negative
+KETONE BODIES Negative Negative
+BILE SALTS Negative Negative
+BILIRUBIN Negative Negative
+
+COMPLETE BLOOD PICTURE - NN O8:51
+Parameter Result Normal Range
+HAEMOGLOBIN 9.2 gm/dL 12.0 - 15.0 gm/dL
+RDW 18.6 % 11.6 - 14.0 %
+BLASTS null
+PROMYELOCYTES null
+ABNORMAL
+PROMYELOCYTES / null
+BLASTS
+MYELOCYTES null
+METAMYELOCYTES null
+BAND FORMS null
+POLYMORPHS 75 % 40 - 80%
+LYMPHOCYTES 18% 20-40%
+EOSINOPHILS 01% 1-6%
+HAEMATOCRIT(PCV) 29.5 Vol% 40.0 - 50.0 Vol%
+MONOCYTES 06 % 2-10%
+BASOPHILS 00 % 0-2%
+ABNORMAL CELLS null
+PROLYMPHOCYTES null
+ATYPICAL CELLS null
+REACTIVE
+LYMPHOCYTES null
+PROLYMPHOCYTE null
+RBC Microcytic hypochromic null
+WBC Within normal limits. null
+PLATELETS Adequate. null
+RBC COUNT 4.4 Millions/cumm 3.8 - 4.8 Millions/cumm

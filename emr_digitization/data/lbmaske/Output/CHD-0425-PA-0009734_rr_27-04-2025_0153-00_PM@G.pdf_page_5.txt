@@ -1,0 +1,30 @@
+Department of Pathology
+Patient _——— | i
+Admn No: Date 26-Apr-2025 7:56 pm
+iz SGRD-4257751 = P p
+Bill No : SE3934022 Collec. Date : 27-Apr-2025 9:43 am
+Referred By : Dr. EMERGENCY MEDICINE Report Date ! 27-Apr-2025 10:42 am
+Attendant : ANOOP Ward/Room : ICU MEDICINE/MICU/MICU-9
+Parameter Specimen Results Biological Reference
+Interpretation (s):
+URINALYSIS- Routine urine analysis assists in screening and diagnosis of various metabolic, urological, kidney and liver
+disorders.
+Proteins: Elevated proteins can be an early sign of kidney disease. Urinary protein excretion can be temporarily elevated
+by strenuous exercise, orthostatic proteinuria, dehydration, urinary tract infections and acute illness with fever.
+Glucose: Uncontrolled diabetes mellitus can lead to presence of glucose in urine. Other causes include pregnancy,
+hormonal disturbances, liver disease and certain medications.
+Ketones: Uncontrolled diabetes mellitus can lead to presence of ketones in urine. Ketones can also be seen in starvation,
+frequent vomiting , pregnancy and strenuous exercise.
+Blood : Occult blood can occur in urine as intact erythrocytes or haemoglobin, which can occur in various urological,
+nephrological and bleeding disorders.
+Leukocytes: An increase in leukocytes is an indication of inflammation in urinary tract or kidneys. Most common cause is
+bacterial urinary tract infection.
+Nitrite: Many bacteria give positive results when their number is high. Nitrite concentrations during infection increases with
+length of time the urine specimen is retained in bladder prior to collection.
+PH: The kidneys play an important role in maintaining acid base balance of the body. Conditions of the body producing
+acidosis/ alkalosis or ingestion of certain type of food can affect the pH of urine.
+Specific Gravity: Specific gravity gives an indication of how concentrated the urine is. Increased specific gravity is seen in
+conditions like dehydration, glycosuria and proteinuria while decreased specific gravity is seen in excessive fluid intake,
+renal fain: In certain liver diseases such as biliary obstruction or hepatitis, bilirubin gets excreted in urine.
+Urobilinogen: Positive results are seen in liver diseases like hepatitis and cirrhoss and in cases of haemolytic anemia
+Printed By : 4498 Printed On : 27-Apr-2025 01:33:10 PM System is

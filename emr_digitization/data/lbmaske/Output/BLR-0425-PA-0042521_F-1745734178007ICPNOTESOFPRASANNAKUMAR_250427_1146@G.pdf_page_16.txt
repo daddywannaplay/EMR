@@ -1,0 +1,51 @@
+DIAGNOSTIC REPORT Sn, GE .
+ines (SS) agilus> 42 Fortis
+Wwe SS HOSPITA
+MC-6106
+PATIENT ee
+INO : 0093YD004475
+i PPATIENTID —: FH.13813036 | ___— een
+FORTIS HOSPITAL-NAGARBHAVI 23, 80 FEET ROAD, } :
+GURUKRUPA LAYOUT, {CLIENT PATIENT ID: UID:13813036 : VED : 16:47:21
+BANGALORE 560072 iABHA NO 3 j REPORTED 17:06:13
+CLINICAL INFORMATION :
+UID:13813036 REQNO-21254085
+IPD-LEVEL-1-EMER NCY-WING-2
+Test Report Status Final Results Biological Reference Interval Units
+MLTHOD : ABSORPTION PHOTOMETRY, UREASE METHOD
+CREATININE 0.92 0.90 - 1.30 mg/dl.
+METHOD : ABSORPTION PHOTOMETRY, ALKALINE os
+|__| 37 years
+HN tRtIon Rate (MALE) 109.87 mL/min/1.73m2
+Interpretation(s)
+CREATININE FGFR- EPI-- Kidney disease outcomes quality initiative (EDO!) guidelines state that estimation of GFR is the best overall indices of the Kidney funetion
+Tyalves @ rough measure of number of functioning nephrons Reduction Cre implies progression of underlying disease,
+Ihe GER is a calculation based on serum creatinine test.
+Creatinine is mainly derived from the metabolism of creatine in ols. cin and its generation is proportional to the total muscle mass. As a result, mean creatinine generation
+is higher in men thart in women, in younger than in older individuals, and in blacks than in whites,
+| Gicatinine is filtered from the blood by the kidneys and excreted into urine ot a relatively steady rate
+ceunn kidney function is compromised, excretion of creatinine decrosses wit consequent increase in blood creatinine levels. With the creatinine test, a reasonable
+estimate of the actual GFR can be determined,
+~ This equation takes into account several factors that impact creatinine Production, including
+jonK? EPI (Chronic kidney disease epidemiology collaboration) couation performed better equation especially when GFR is high(>60 ml/min per 1.73m2).. This
+formula has less bias and greater accuracy which helps in early diagnosis and also reduccs|ratc of false positive diagnosis of CKD.
+References
+pauonel Kidney Foundation (NKF) and the American Society of Nephrology (ASN).
+Estimated GFR Calculated Using the CKD-EPI equation-https://testquide.labmed.uw.edu/guideline/egfr
+Ghuman Jk, et al. Impact of Removing Race Variable on CKD Classification Using the Creatinine-Based 2021 CKD-EPI Equation. Kidney Med 2022, 4;100471. 35756325
+Harrison's Principle of Internal Medicine, 21st ed. pg 62 and 334
+**End Of Report**
+Please visit www.agilusdiagnostics.com for related Test Information for this accession
+t
+Dr.Sarvjot Kaur ap peal oe
+Sr.Consultant peceires Seige
+peace} Pest
+Ess lise
+View Details View Report
+PERFORMED AT : a .
+fer MBSR eesepeey |
+23,80 Feet Road,Gurukrupa Layout, Opp. Fab Mall, Nagarbhavi 2nd ; PEP rE
+Bangalore, 560072 Patient Ref, No. 93000000458036
+Karnataka, Indi
+Jel Fax :
+cin F PLCO45956

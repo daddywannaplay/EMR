@@ -1,0 +1,37 @@
+| care you can trust™
+
+\\\\\\\\\ SITARAM BHARTIA
+
+Institute of Science & Research
+LABORATORY INVESTIGATION REPORT
+
+Patient a i a —
+
+und + SBID.325941 a
+
+Episode =P IP NO + 1515162
+
+Ref. Doctor Dr. Medicine Unit /Pradeep Narayan Chauhan hl
+
+— =
+
+Biochemistry
+Sample No [i Collection Date mm: Ack Date || 10:02 Report Date || 12:37
+Procalcitonin -PCT
+Sample Type- Serum
+Procalcitonin -PCT < 0.05 ng/ml 0- 0.05
+Method - Fluorescence Immunoassay
+Interpretation:-
+<0.05ng/ml - Normal Value
+0.05 - 0.49ng/ml_ - Minor or no significant systemic inflammatory response. Local inflammation and local
+infection are possible
+0.5 - 1.9 ng/ml - Significant but moderate systemic inflammatory response. Infection is possible, but various
+conditions are known to induce PCT as well (Severe trauma, major surgery,cardiogenic
+shock)
+2.0-9.91ng/ml - Severe systemic inflammatory response. Most likely due to infection (sepsis) unless other
+causes are known (see above)
+High risk for developing organ dysfunction.
+=/>10.0 ng/ml Important systemic inflammatory response almost exclusively due to severe bacterial sepsis
+or septic shock. Frequently associated with organ dysfunction.
+Clinical correlation/ confirmation with other method is recommended)
+Print DateTime: FY

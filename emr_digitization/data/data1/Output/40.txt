@@ -1,0 +1,15 @@
+Hospital: Yashoda Hospitals
+Consultant: Dr. Hari Kishan Boorugu
+Specialization: Consultant Physician & Diabetologist
+Date: 13/05/2021
+
+Patient: Ramachandra Rao
+Age: 60
+
+Diagnosis:
+- Mucormycosis (suspected)
+
+Medication:
+- Inj. Liposomal Amphotericin B (Ambisome)
+  Dosage: 300 mg IV in 5% dextrose
+  Frequency: Once daily for 15 days

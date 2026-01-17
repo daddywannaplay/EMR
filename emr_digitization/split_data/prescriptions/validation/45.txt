@@ -1,0 +1,17 @@
+Doctor: Dr. Rakesh Jain
+Qualification: MBBS, MD (Paediatrics)
+
+Patient: Keviy
+Age: 2 years
+Weight: 8.5 kg
+Date: 05/10/2016
+
+Medications:
+1. Syp Croxim – 1/2 tsp OD
+2. Syp Cleaf – 1/3 tsp TDS
+3. Syp Asthakind – 6 drops TDS
+4. Syp Polymol – 1 tsp TDS
+5. Syp Nezerac
+
+Advice:
+- Follow dosage carefully

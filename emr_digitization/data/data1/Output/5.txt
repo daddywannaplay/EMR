@@ -1,0 +1,12 @@
+Patient: [Name not specified]
+Date: 19-07
+Weight: 14.9 kg
+Height: 98 cm
+
+Medications:
+- Syp Epredex – 3.5 ml twice daily
+- Syp Crocin DS – 4 ml SOS
+- Syp Ibuflam-P – 4 ml SOS
+- Syp Epredex – 4 ml twice daily
+
+Note: Temp chart included

@@ -1,0 +1,15 @@
+Hospital: CHUS – Centre hospitalier universitaire de Sherbrooke
+Location: Sherbrooke, QC, Canada
+Date: Dec 1, 2017
+
+Patient: John Hubbard
+
+Medications:
+1. Acetaminophen 650 mg – q4h PRN
+2. Aspirin 81 mg – PO daily
+3. Clopidogrel 75 mg – PO daily
+
+Indication:
+- Coronary artery disease
+
+Doctor: Dr. Jones

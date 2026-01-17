@@ -1,0 +1,17 @@
+Hospital / Clinic: Not mentioned
+Doctor: Adya
+Date: 24 May 2011
+
+Patient: Not mentioned
+Sex: Not mentioned
+Age: Not mentioned
+
+Symptoms:
+- Gastritis (1 week)
+- Abdominal pain
+- Reduced food intake
+- Headache (3 days)
+
+Medications:
+1. Tab Ranitidine 150 mg – BD × 5 days
+2. Tab Paracetamol 500 mg – TDS × 5 days

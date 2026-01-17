@@ -1,0 +1,30 @@
+Clinic: SumDra Clinic
+Doctor: Dr. Ravindra Kumar
+Specialization: Consultant Physician, Heart & Diabetes Specialist
+
+Chief Complaints:
+- COVID positive
+- Breathlessness
+- Chest pain
+- Fever
+
+Investigations:
+- CBC
+- CRP
+- CK-MB
+- Troponin I
+- Pro-BNP
+- LFT
+- CXR
+
+Medications:
+1. Inj Clexane 60 mg – SC
+2. Cap Doxycycline 100 mg – BD
+3. Tab Vitamin C 500 mg – BD
+4. Tab Zinc – OD
+5. Cap Neurobion Forte
+6. Syp Expectorant
+7. Tab A to Z
+
+Advice:
+- Complete COVID care protocol

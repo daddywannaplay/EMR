@@ -1,0 +1,12 @@
+Doctor: Leonidas H. Berry, M.D.
+Specialization: Internal Medicine & Gastroenterology
+
+Patient Address:
+- 7000 Blvd.
+
+Prescription:
+- Tincture iodine
+- Sodium bicarbonate tablets
+
+Notes:
+- Follow diet and lifestyle advice

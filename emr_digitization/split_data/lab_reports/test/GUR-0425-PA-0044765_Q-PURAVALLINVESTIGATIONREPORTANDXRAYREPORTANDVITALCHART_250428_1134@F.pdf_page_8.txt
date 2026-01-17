@@ -1,0 +1,29 @@
+Patient Id StINo. 119 a
+|
+SWASTIK HOSP
+a | |
+Test a
+| || || Normal Value
+HAEMATOLOGY
+SERUM VITAMIN B12 258.9 pg/ml 211.0 - 911.0
+SEROLOGY
+VITAMIN D 25 HYDROXY
+CLIA
+Vitamin D, 25 - Hydroxy 14.0 ng/ml ( > 30 ng/ml)
+Expected Value:
+A more recent consensus of expert leads to the conclusion that for general health a desirable concentration
+of vitamin D (25-OH) is > 30 ng/ml ( > 75 nmol/L)
+Ref
+Vieth R, et al. The urgent need to recommened an intake of Vitamin D that is effective. Am J Clin Nutr 2007 85 :649 - 650
+Comments
+Vitamin D is acquired either by exposure to sunlight or ingestion of food containing food vit D. It is
+metabolized to vit D, 25 hydroxy in the liver in the first step by vit D,25-hydroxylase system. A small amount
+of it further gets metabolized by hydroxylation in kidney to vit D 1,25 dihydroxy. Since vit D, 25 hydroxy is
+the predominant circulating form of Vit D in normal population, it is considered to be the most reliable index
+of vit D status.
+The measurement of 25-OH-D is becoming increasingly important in the
+various disorders of calcium metabolism associated with Rickets, pregnancy,
+nutritional and renal osteodystrophy, hypoparathyroidism, and
+Fe ye \ Page rma Dry A eer rany NA
+Se ” > Vl Genera Regn wo. DMC 48138 rus. ;
+SA “J

@@ -1,0 +1,15 @@
+C.O. Jones Prescription (10-03-2009)
+
+Patient: Joseph McIntyre
+DOB: 26-12-1998
+Weight: 65 kg
+Allergies: NKDA
+
+Medication: Azithromycin 200 mg/mL
+- Day 1: 15 mL
+- Day 2: 7.5 mL
+
+Dispense: 5 mg/mL solution, 30 mL
+Refills: 0
+
+Prescriber: C.O. Jones, ARNP

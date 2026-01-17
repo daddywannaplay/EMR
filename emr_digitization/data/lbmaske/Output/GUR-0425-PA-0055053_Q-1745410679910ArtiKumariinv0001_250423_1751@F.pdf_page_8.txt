@@ -1,0 +1,56 @@
+2DIAGNOSTIC REPORT. LY, =
+PiagnostiesReport eS s, AGHUS >»
+Mohair .
+a MC-5837 a US Dost le
+4) Ls diagnostics
+PATIENT J! —
+«VAs - PATIENTID : FH.13424637 | EE 22:56:00
+SECTOR 10, A, VASHI, SECTOR 10, MINI SEA i
+SHORE ROAD,SECTOR 10, A, VASHI, {CLIENT PATIENT 1D: UI0:13424637 jReceiveD : NNN 22:58:13
+NAVI MUMBAI 400703 jABHANO {REPORTED MN 16:31:49
+022 39199222 i i
+a SS
+CLINICAL INFORMATION :
+UID:13424637 REQNO-21208267
+JPD-4B
+[rest Report Status Final Results Biological Reference Interval Units
+LYMPHOCYTES 11 Low 20.0 - 40.0 %
+METHOD ;: FLOW CYTOMETRY WITH LIGHT SCATTERING
+MONOCYTES 10 2.0 - 10.0 %
+METHOD : FLOW CYTOMETRY WITH LIGHT SCATTERING
+EOSINOPHILS 1 1-6 %
+METHOD ; FLOW CYTOMETRY WITH LIGHT SCATTERING
+BASOPHILS 0 0-2 %
+METHOD : FLOW CYTOMETRY WITH LIGHT SCATTERING
+ABSOLUTE NEUTROPHIL COUNT 4.71 2.0 - 7.0 thou/pL
+METHOD : CALCULATED PARAMETER
+ABSOLUTE LYMPHOCYTE COUNT 0.66 Low 1.0 - 3.0 thou/pL
+METHOD : CALCULATED PARAMETER,
+ABSOLUTE MONOCYTE COUNT 0.60 0.2- 1.0 thou/pL
+METHOD : CALCULATED PARAMETER
+ABSOLUTE EOSINOPHIL COUNT 0.06 0.02 - 0.50 thou/uL
+METHOD :; CALCULATED PARAMETER
+ABSOLUTE BASOPHIL COUNT 0 0.0 - 0.1 thou/yL
+METHOD : CALCULATED PARAMETER
+MORPHOLOGY (MICROSCOPY)
+RBC MILD HYPOCHROMASIA, NORMOCYTIC
+METHOD : MICROSCOPIC EXAMINATION
+WBC NORMAL MORPHOLOGY
+METHOD : MICROSCOPIC EXAMINATION
+PLATELETS ADEQUATE
+METHOD : MICROSCOPIC EXAMINATION
+Interpretation(s)
+RBC AND PLATELET INDICES-Mentzer Index (MCV/RBC) is an automated cell-counter based calculated screen tool to differentiate cases of Iron defictency anaemla(>13)
+from Beta thalassaemia tralt (<13) in patients with microcytic anaemia. This needs to be interpreted fn JIne with clinical correlation and suspicion. Estimation of HbA2
+remains the gold standard for diagnosing a case of beta thalassaemia trait.
+Dr.Snehalkumar Prahladrao area Eig aa
+Padghane (Reg No. MMC Es ES aa ee
+Consultant Pathologist miswenes bles:
+View Details View Report
+PERFORMED AT : _ , -
+Agilus Diagnostics Ltd iil Fes Eee hate fi. sha |
+Hiranandani Hospital (A Fortis Network Hospital), Mini Seashore Road, Sector 10A,Vashi Bee Ei Feat ld
+Navi Mumbai, 400703 ULR|
+Maharashtra, India
+| CIN -
+ee

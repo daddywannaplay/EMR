@@ -1,0 +1,39 @@
+i ~ Hospital
+CLINICAL LABORATORY SEE
+Ee = TTT
+a ee ee es
+ee Ms _| a eS ee
+MCs: ER CARE GROUP Reported On: (Jo3-0:
+|
+i | TEST METHOD RESULT UNIT BIOLOGICAL REFERENCE INTERV.
+i Haematology and Clinical Pathology
+2 URINE ROUTINE - SEMIQUANTITATIVE STRIP-REFLECTANCE PHOTOMETRY
+: Urine
+' CAST PATHOLOGIAL 0.0 - /HPF 0-0.3
+! NON SQUAMOUS 0.0 = {HPF 0-05
+: EPITHELIAL CELLS
+| SQUAMOUS EPITHELIAL 0.0 - {HPF 0-11
+CELLS
+YEAST 0.0 - PE 0-07
+i BACTERIA 10.7 - /HPE 0- 29.5
+i BACTERIA COCCI 10.7 . /HPE 0- 29.5
+BACTERIA RODS 0.0 - /HPE 0-295
+: MUCUS 0.5 : /HPE 0-60
+i PHYSICAL EXAMINATION
+COLOUR MANUAL Yellow
+: APPEARANCE MANUAL Clear
+‘ COMPLETE BLOOD COUNT
+5 Whole Blood
+HAEMOGLOBIN Photometric 11.9 g/dl 11.5 - 15.5
+i HAEMATOCRIT Caiculated 34 % 46-51
+i TOTAL W8C COUNT Light Scattering 5830 cells/cum 4000-10000
+RBC COUNT Light Scattering 3.94 millionfeu = 3.8- 4.8
+MCV Light Scattering 87 fl 83-101
+! McH Calculated 30 pg 27 - 32
+MCHC Calculated 35 g/di 31.5 - 34.5
+i Mrs Devi. M Hiwuxur vis, mo,ppce Dr Anupama Patil
+i Sr.CONSULTANT PATHOLOGIST Consultant Hematopathalogist
+i Result Entered { Verified By: fs es
+smomncerecrarreremnencareeerencecracccemenwmereremacceaennecwmreas, VBS, FRAT PUES ERLE ES CF A eceb eeregh 2 gE erg me emeenrnenmmnemmaminneammrmnnean asm tne
+i 2, COLES Wueks Road, Gheamnepe: veer tetris in hitaaten cents 24M T fimniredesses Cabaret Pd dts:
+i {berms 803044 aearesiersd wactesieiud Liveias estas Aviv ec clertanencet wees 5 ’

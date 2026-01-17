@@ -1,0 +1,10 @@
+Prescription Note
+
+Medication:
+- Metrodase 100 mg
+
+Quantity:
+- #100 tablets
+
+Instructions:
+- Take orally for 8 days

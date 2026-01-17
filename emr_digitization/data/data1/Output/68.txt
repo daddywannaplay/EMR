@@ -1,0 +1,22 @@
+QSL Card
+
+Call Sign: AC0ZQ
+Confirming QSO with: W6BHZ
+Date: 15 Feb 2013
+UTC: 23:26
+Frequency: 14.285 MHz
+Mode: SSB
+RST: 58/57
+
+Transceiver: Yaesu FT-857D
+Power: 100 Watts
+Antenna: MFJ 20m Hamtenna
+
+Remarks:
+- Thanks for the contact.
+- Mobile operation north of Stromsburg, Nebraska.
+
+From:
+Cal Poly ARC
+Univ. Union Box 53
+San Luis Obispo, CA 93407

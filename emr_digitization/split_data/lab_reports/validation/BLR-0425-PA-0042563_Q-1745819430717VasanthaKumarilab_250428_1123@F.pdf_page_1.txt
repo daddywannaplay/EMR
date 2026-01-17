@@ -1,0 +1,33 @@
+View Results-PDF Print Results
+| : MHO04929753 | : BBROHAN AUGUSTINE
+Episode No A
+TEST RESULT UNITS REFERENCE
+Collection Date/ Time : ER 12:07
+
+Authorised by Dr ROOPA MURGOD,MD (Biochem) on 23/04/2025 at 16:55
+Specimen - Serum
+Post HD BUN (Urease/GLDH) 2.10 # mg/dl [6.00-20.00]
+Collection Date/ Time : 07:54
+Authorised by Dr. Hemantha Kumara D.S on 23/04/2025 at 11:24
+Albumin Specimen: Serum
+SERUM ALBUMIN (BCG) 2.4 # g/dl [3.5-5.2]
+Collection Date/ Time : ER 07:54
+Authorised by Dr. Hemantha Kumara D.S on 23/04/2025 at 11:24
+Specimen: Serum
+Blood Urea Nitrogen (Urease/GLDH) 5.50 # mg/dl ([6.00-20.00]
+Method:Calculated
+Collection Date/ Time : NN O7:54
+Authorised by Dr. Hemantha Kumara D.S on 23/04/2025 at 11:24
+Specimen Type : Serum
+SERUM CALCIUM (ARSENAZO IIL) 7.67 # mg/dl [8.60-10.30]
+Collection Date/ Time : ER 07:54
+Authorised by Dr. Hemantha Kumara D.S on 23/04/2025 at 11:24
+SERUM CREATININE (Kinetic mod.Jaffe) 3.33 # mg/dl [0.60-1.40]
+*eGFR (Calculated) 13.0 # ml/min/1.73sq.m [>60.0]
+Disclaimer :
+eGFR which is primarily based on Serum Creatinine is a derivation of CKD-EPI 2009
+equation normalized tol.73 sq.m BSA and is not applicable to individuals below 18 years.
+eGFR tends to be less accurate when Serum Creatinine estimation is indeterminate e.g.
+patients at extremes of muscle mass, on unusual diets etc. and samples with severe Hemolysis /
+Icterus / Lipemia.
+Collection Date/ Time : EN 07:54

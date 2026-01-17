@@ -1,0 +1,49 @@
+Cpe: /1PCM00098195(P nospital
+Patient a (IP) BedNo/Ward : 100-F/EMERGENCY
+a ee
+: Dr. AN ee:
+MO ANANTHA | MBBS. MD( ME 09:22 Pr
+Order No : 4439141 - Final
+_________ LABORATORY REPORT
+———e Haematolo: re
+Investigation Name |=) SE Resut aie TSMR ATER pee ,
+Haemoglobin 125 : ofa ais
+Method: SLS Method / Colorimetric . gi .0-15.0
+Ragmetocnt 37.5 % 2052
+: (Direct Current — Sheath flow) ,
+Total RBC Count 4,52 10°6/pL 3.84.8
+Method. Electrical Impedance
+Mean Corpuscular Volume (MCV) 83.0 fl 83-101
+Method: Calculated
+(MCH) Mean Corpuscular Haemoglobin 27.7 pg 27-32
+Method: Calculated
+(MCHC) Mean Corpuscular Haemoglobin 33.3 gid 31.5-34.5
+Concentration
+Method: Calculated
+RDW - CV 15.8 % 12.2-16.1
+Method: Calculated
+Total WBC Count 17.53 10*3/pL 4-11
+Method: Electncal Impedance
+Neutrophil 69.3 % 40-75
+Method: Flowcytometry ,
+Method: Flowcylometry 2°" '.
+Monocyte e 12.2 % 2-10
+ethod: Flowcylometry
+Pe ssinophil 0.0 % se
+Method: Flowcyiomeny 0.2 % oO
+Basophil
+Method Flowcytometry »
+Absolute Neutrophil Count (ANC) 12.15 10*SeL af
+Method: Calculated A!
+Absolute Lymphocyte Count (ALC) 3.21 10*3ipL 19
+Method: Calculated
+Absolute Monocyte Count (AMC) 2.14 1043/pL 0.21
+Method: Calculated
+Absolute Eosinophil Count (AEC) 0.00 1043/pL 0.02-0.5
+Method. Calculated
+Absolute Basophil Count (ABC) 0.03 1043/pL 0.02-0.1
+Method: Catcuiale’ 224 1043/pL 150-410
+Platelet Count
+etnrocyte Sedimentation Rate (ESR) 55 mm thr 0-30
+Method (Capilary Mcro-Projomee page 17
+FO atid oh OO j

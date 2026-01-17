@@ -1,0 +1,37 @@
+= HOSPITALS aus
+- —— LABORATORY INVESTIGATION REPOR aes _ :
+Paticnt i
+UHID t AIGG.20965929 : Es:
+Episode : 1p 2 112902 / 743
+Ref, Doctor + Dr. RUPA BANERJEE |
+Facility ? AIG Hospitals, Gachibow
+Sample No + AGILO30488A Collec. Date : ER 19:22
+Ack, Date : ER 00:43 Report Date : EB 03:33
+Coagulation
+PT WITH INR
+Sample Type- Grated Plasma
+PROTHROMBIN TIME 12.3 Seconds 10,8 - 13,3
+Metiag » Photometric Clotting Assay
+MEAN NORMAL PROTHROMBIN TIME 12.1 Seconds
+Method - Photometric clothing assay
+INR 1.02 - Normal <1.3
+Therapeutic Range 2.0-3.5
+Critical Alert >4.0
+Comments: Prothrombin time measures the extrinsic coagulation pathway which consisis of activated Factor Vil
+(Vila}, tissue factor and proteins of the common pathway (Factors X, Vi ll & Fibrinogen). Prolonged PT
+Administration of oral anticoagulant drugs Liver disease, particulary obstructive jaundice Vitamin K deficiency
+Disseminated intravascular coagulation Inherited deficiency of factors in extrinsic pathway (Vil) and common pathway
+(V, X, prothrombin and fibrinogen}intemational Normalized Ratio \endash Js used for defining the therapeutic ranges
+for anticoagulant therapy. Appropriate therapeutic range varies with the disease and treatment _ intensity.
+Recommended Therapeutic range for Oral Anticoagulant therapy INR  2.0-3.5:Treatment of Venous thrombosis &
+Pulmonary embolism, Prophylaxis of Venous thrombosis (High risk surgery), Prevention of systemic embolism in
+tissue heart valves, AMI, Valvular heart disease & Atrial fibrillation, Bileafiet- mechanical vatve in aortic position.
+Note: 1. Results should be clinically correlated
+2. Test done on citrated plasma.
+Report Saved By - RAJESH KUMAR [03:33 am)
+Sd OF Resor $a
+Dr.VISHNU VARDHAN KOMMU
+Pathologist
+Print DateTime : (17:33:54 Print By; KOMATIREDDY SRINIVE |
+Q Mindspace Road, Gachibowli, Hyderabad, Telangana-500 032 @ +91 EE © info@aighospitals.com © www.aighospitals,com
+AIG Hospitals (a unit of Asian Institute of Gastroenterology) — CIN: U99999TG1994PTCO18352

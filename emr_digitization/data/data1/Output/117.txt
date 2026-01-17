@@ -1,0 +1,10 @@
+Insulin Chart
+
+Insulin: Novorapid
+Device: FlexPen
+
+8 AM – 6 units
+12 PM – 6 units
+6 PM – 6 units
+
+Start date: 28/03/18

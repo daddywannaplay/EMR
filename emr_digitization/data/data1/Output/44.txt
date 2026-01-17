@@ -1,0 +1,11 @@
+Medical Note
+
+Clinical Summary:
+- Patient with diabetes mellitus
+- Chronic diarrhea
+- Severe anemia
+- Poor nutritional status
+
+Advice:
+- Place patient on liquid diet
+- Monitor blood glucose levels regularly

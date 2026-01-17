@@ -1,0 +1,8 @@
+Prescription Note
+
+Diagnosis:
+- Body pain
+
+Medications:
+1. Voveran 120 mg – 1×1×1
+2. Jedawn gel – Apply locally 1×1×1

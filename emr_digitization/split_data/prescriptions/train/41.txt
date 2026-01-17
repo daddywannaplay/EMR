@@ -1,0 +1,14 @@
+Doctor: Dr. B. Who
+Address: Farmstreet 12, Kirkville
+Date: 01 Nov 1994
+
+Patient: Richard P.
+Age: 5 years
+
+Medication:
+- Amoxicillin 50 mg/ml syrup
+  Quantity: 100 ml
+
+Instructions:
+- Take 5 ml three times daily
+- Finish course (use 5 ml spoon)
